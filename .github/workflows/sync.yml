@@ -1,0 +1,34 @@
+name: Upstream Sync
+
+permissions:
+    contents: write
+
+on:
+    schedule:
+        - cron: '0 18 * * *'  # 默认标准UTC0需+8为北京时间
+    workflow_dispatch:
+
+jobs:
+    sync_with_upstream:
+        name: Sync with Upstream
+        runs-on: ubuntu-latest
+        if: ${{ github.event.repository.fork }}
+
+        steps:
+            - name: Checkout target repo
+              uses: actions/checkout@v3
+
+            - name: Sync Upstream
+              uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
+              with:
+                  target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+                  upstream_sync_repo: YueChan/Live
+                  upstream_sync_branch: main
+                  target_sync_branch: main
+                  test_mode: false
+
+            - name: Check for Failure
+              if: failure()
+              run: |
+                  echo "[Error] You need to manually sync."
+                  exit 1
