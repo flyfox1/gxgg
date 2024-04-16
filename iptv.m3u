@@ -155,58 +155,72 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225825/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221225875/index.m3u8?
 #EXTINF:-1 tvg-name="CGTN العربية" tvg-id="CGTN06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="国际时事",CGTN العربية
 http://39.135.47.100:6610/PLTV/77777777/224/3221225822/index.m3u8?
-#EXTINF:-1 tvg-name="南宁新闻综合" tvg-id="Nnxwzh" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/chapd.png" group-title="地市频道",南宁新闻综合
-http://39.135.47.100:6610/PLTV/77777777/224/3221226281/index.m3u8?
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="Gxxw" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/klcd.png" group-title="地市频道",广西新闻
+#EXTINF:-1 tvg-name="广西新闻" tvg-id="Gxxw" tvg-logo="" group-title="地市频道",广西新闻
 http://39.135.47.100:6610/PLTV/77777777/224/3221226285/index.m3u8?
-#EXTINF:-1 tvg-name="柳州科教" tvg-id="Jyjs" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jyjs.png" group-title="地市频道",柳州科教
-http://39.135.47.100:6610/PLTV/77777777/224/3221226287/index.m3u8?
-#EXTINF:-1 tvg-name="南宁文旅生活" tvg-id="Nnwlsh" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jykt.png" group-title="地市频道",南宁文旅生活
-http://39.135.47.100:6610/PLTV/77777777/224/3221226288/index.m3u8?
-#EXTINF:-1 tvg-name="来宾综合" tvg-id="Lbzh" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/xfpy.png" group-title="地市频道",来宾综合
-http://39.135.47.100:6610/PLTV/77777777/224/3221226296/index.m3u8?
-#EXTINF:-1 tvg-name="南宁影视娱乐" tvg-id="Nnysyl" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan1.png" group-title="地市频道",南宁影视娱乐
-http://39.135.47.100:6610/PLTV/77777777/224/3221226291/index.m3u8?
-#EXTINF:-1 tvg-name="广西综艺旅游" tvg-id="Gxzyly" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan2.png" group-title="地市频道",广西综艺旅游
+#EXTINF:-1 tvg-name="广西综艺旅游" tvg-id="Gxzyly" tvg-logo="" group-title="地市频道",广西综艺旅游
 http://39.135.47.100:6610/PLTV/77777777/224/3221226292/index.m3u8?
-#EXTINF:-1 tvg-name="桂林科教旅游" tvg-id="HN03" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan3.png" group-title="地市频道",桂林科教旅游
-http://39.135.47.100:6610/PLTV/77777777/224/3221226293/index.m3u8?
-#EXTINF:-1 tvg-name="桂林新闻综合" tvg-id="HN04" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan4.png" group-title="地市频道",桂林新闻综合
+#EXTINF:-1 tvg-name="广西都市" tvg-id="HN05" tvg-logo="" group-title="地市频道",广西都市
+http://39.135.47.100:6610/PLTV/77777777/224/3221226295/index.m3u8?
+#EXTINF:-1 tvg-name="广西影视" tvg-id="HN08" tvg-logo="" group-title="地市频道",广西影视
+http://39.135.47.100:6610/PLTV/77777777/224/3221226298/index.m3u8?
+#EXTINF:-1 tvg-name="南宁新闻综合" tvg-id="Nnxwzh" tvg-logo="" group-title="地市频道",南宁新闻综合
+http://39.135.47.100:6610/PLTV/77777777/224/3221226281/index.m3u8?
+#EXTINF:-1 tvg-name="南宁文旅生活" tvg-id="Nnwlsh" tvg-logo="" group-title="地市频道",南宁文旅生活
+http://39.135.47.100:6610/PLTV/77777777/224/3221226288/index.m3u8?
+#EXTINF:-1 tvg-name="南宁影视娱乐" tvg-id="Nnysyl" tvg-logo="" group-title="地市频道",南宁影视娱乐
+http://39.135.47.100:6610/PLTV/77777777/224/3221226291/index.m3u8?
+#EXTINF:-1 tvg-name="南宁公共" tvg-id="HN10" tvg-logo="" group-title="地市频道",南宁公共
+http://39.135.47.100:6610/PLTV/77777777/224/3221226301/index.m3u8?
+#EXTINF:-1 tvg-name="柳州新闻综合" tvg-id="SX02" tvg-logo="" group-title="地市频道",柳州新闻综合
+http://39.135.47.100:6610/PLTV/77777777/224/3221226304/index.m3u8?
+#EXTINF:-1 tvg-name="柳州科教" tvg-id="Jyjs" tvg-logo="" group-title="地市频道",柳州科教
+http://39.135.47.100:6610/PLTV/77777777/224/3221226287/index.m3u8?
+#EXTINF:-1 tvg-name="柳州公共" tvg-id="SX05" tvg-logo="" group-title="地市频道",柳州公共
+http://39.135.47.100:6610/PLTV/77777777/224/3221226307/index.m3u8?
+#EXTINF:-1 tvg-name="桂林新闻综合" tvg-id="HN04" tvg-logo="" group-title="地市频道",桂林新闻综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226294/index.m3u8?
-#EXTINF:-1 tvg-name="湖南娱乐" tvg-id="HN05" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan5.png" group-title="地市频道",湖南娱乐
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn07.m3u8
-#EXTINF:-1 tvg-name="湖南电影" tvg-id="HN06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan6.png" group-title="地市频道",湖南电影
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn04.m3u8
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-id="HN07" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan7.png" group-title="地市频道",湖南电视剧
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn03.m3u8
-#EXTINF:-1 tvg-name="长沙新闻" tvg-id="HN08" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/mgtv@main/logo/csxw.png" group-title="地市频道",长沙新闻
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn14.m3u8
-#EXTINF:-1 tvg-name="长沙政法" tvg-id="HN09" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/mgtv@main/logo/cszf.png" group-title="地市频道",长沙政法
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn15.m3u8
-#EXTINF:-1 tvg-name="长沙女性" tvg-id="HN10" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/mgtv@main/logo/csnx.png" group-title="地市频道",长沙女性
-#EXTINF:-1 tvg-name="山西卫视" tvg-id="Shanxi" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi.png" group-title="地市频道",山西卫视
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi.m3u8
-#EXTINF:-1 tvg-name="黄河电视台" tvg-id="SX01" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi1.png" group-title="地市频道",黄河电视台
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi1.m3u8
-#EXTINF:-1 tvg-name="山西经济与科技" tvg-id="SX02" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi2.png" group-title="地市频道",山西经济与科技
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi2.m3u8
-#EXTINF:-1 tvg-name="山西影视" tvg-id="SX03" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi3.png" group-title="地市频道",山西影视
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi3.m3u8
-#EXTINF:-1 tvg-name="山西社会与法治" tvg-id="SX04" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi4.png" group-title="地市频道",山西社会与法治
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/shanxi/shanxi4.m3u8
-#EXTINF:-1 tvg-name="山西文体生活" tvg-id="SX05" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi5.png" group-title="地市频道",山西文体生活
-#EXTINF:-1 tvg-name="湖北综合" tvg-id="HB01" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei1.png" group-title="地市频道",湖北综合
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
-#EXTINF:-1 tvg-name="湖北影视" tvg-id="HB02" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei2.png" group-title="地方特色",湖北影视
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
-#EXTINF:-1 tvg-name="湖北教育" tvg-id="HB03" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei3.png" group-title="地方特色",湖北教育
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
-#EXTINF:-1 tvg-name="湖北生活" tvg-id="HB04" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei4.png" group-title="地方特色",湖北生活
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
-#EXTINF:-1 tvg-name="湖北公共" tvg-id="HB05" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei5.png" group-title="地方特色",湖北公共
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
-#EXTINF:-1 tvg-name="湖北经视" tvg-id="HB06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei6.png" group-title="地方特色",湖北经视
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
+#EXTINF:-1 tvg-name="桂林科教旅游" tvg-id="HN03" tvg-logo="" group-title="地市频道",桂林科教旅游
+http://39.135.47.100:6610/PLTV/77777777/224/3221226293/index.m3u8?
+#EXTINF:-1 tvg-name="桂林公共频道" tvg-id="HB03" tvg-logo="" group-title="地市频道",桂林公共频道
+http://39.135.47.100:6610/PLTV/77777777/224/3221226310/index.m3u8?
+#EXTINF:-1 tvg-name="梧州新闻综合" tvg-id="HB05" tvg-logo="" group-title="地市频道",梧州新闻综合
+http://39.135.47.100:6610/PLTV/77777777/224/3221226313/index.m3u8?
+#EXTINF:-1 tvg-name="梧州公共频道" tvg-id="HN07" tvg-logo="" group-title="地市频道",梧州公共频道
+http://39.135.47.100:6610/PLTV/77777777/224/3221226297/index.m3u8?
+#EXTINF:-1 tvg-name="梧州教育生活" tvg-id="migu" tvg-logo="" group-title="地市频道",梧州教育生活
+http://39.135.47.100:6610/PLTV/77777777/224/3221226316/index.m3u8?
+#EXTINF:-1 tvg-name="北海新闻综合" tvg-id="HB02" tvg-logo="" group-title="地市频道",北海新闻综合
+http://39.135.47.100:6610/PLTV/77777777/224/3221226309/index.m3u8?
+#EXTINF:-1 tvg-name="北海经济科教" tvg-id="HB01" tvg-logo="" group-title="地市频道",北海经济科教
+http://39.135.47.100:6610/PLTV/77777777/224/3221226308/index.m3u8?
+#EXTINF:-1 tvg-name="防城港新闻综合" tvg-id="HB04" tvg-logo="" group-title="地市频道",防城港新闻综合
+http://39.135.47.100:6610/PLTV/77777777/224/3221226312/index.m3u8?
+#EXTINF:-1 tvg-name="防城港公共" tvg-id="migu" tvg-logo="" group-title="地市频道",防城港公共
+http://39.135.47.100:6610/PLTV/77777777/224/3221226328/index.m3u8?
+#EXTINF:-1 tvg-name="钦州综合" tvg-id="SX04" tvg-logo="" group-title="地市频道",钦州综合
+http://39.135.47.100:6610/PLTV/77777777/224/3221226306/index.m3u8?
+#EXTINF:-1 tvg-name="钦州公共" tvg-id="migu" tvg-logo="" group-title="地市频道",钦州公共
+http://39.135.47.100:6610/PLTV/77777777/224/3221226325/index.m3u8?
+#EXTINF:-1 tvg-name="贵港新闻综合" tvg-id="Ggxwzh" tvg-logo="" group-title="地市频道",贵港新闻综合
+http://39.135.47.100:6610/PLTV/77777777/224/3221226300/index.m3u8?
+#EXTINF:-1 tvg-name="贵港科教生活" tvg-id="Ggkjsh" tvg-logo="" group-title="地市频道",贵港科教生活
+http://39.135.47.100:6610/PLTV/77777777/224/3221226303/index.m3u8?
+#EXTINF:-1 tvg-name="玉林新闻综合" tvg-id="HN09" tvg-logo="" group-title="地市频道",玉林新闻综合
+http://39.135.47.100:6610/PLTV/77777777/224/3221226299/index.m3u8?
+#EXTINF:-1 tvg-name="玉林公共" tvg-id="migu" tvg-logo="" group-title="地市频道",玉林公共
+http://39.135.47.100:6610/PLTV/77777777/224/3221226319/index.m3u8?
+#EXTINF:-1 tvg-name="百色综合" tvg-id="migu" tvg-logo="" group-title="地市频道",百色综合
+http://39.135.47.100:6610/PLTV/77777777/224/3221226322/index.m3u8?
+#EXTINF:-1 tvg-name="贺州综合" tvg-id="HN06" tvg-logo="" group-title="地市频道",贺州综合
+http://39.135.47.100:6610/PLTV/77777777/224/3221226296/index.m3u8?
+#EXTINF:-1 tvg-name="河池新闻综合" tvg-id="Shanxi" tvg-logo="" group-title="地市频道",河池新闻综合
+http://39.135.47.100:6610/PLTV/77777777/224/3221226302/index.m3u8?
+#EXTINF:-1 tvg-name="河池教育" tvg-id="SX03" tvg-logo="" group-title="地市频道",河池教育
+http://39.135.47.100:6610/PLTV/77777777/224/3221226305/index.m3u8?
+#EXTINF:-1 tvg-name="来宾综合" tvg-id="Lbzh" tvg-logo="" group-title="地市频道",来宾综合
+http://39.135.47.100:6610/PLTV/77777777/224/3221226296/index.m3u8?
+#EXTINF:-1 tvg-name="崇左综合" tvg-id="HB06" tvg-logo="" group-title="地市频道",崇左综合
+http://39.135.47.100:6610/PLTV/77777777/224/3221226314/index.m3u8?
 #EXTINF:-1 tvg-name="NewTV军事评论" tvg-id="N01" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV01.png" group-title="NewTV",NewTV军事评论
 http://39.135.47.100:6610/PLTV/77777777/224/3221225749/index.m3u8?
 #EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-id="N02" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV02.png" group-title="NewTV",NewTV军旅剧场
@@ -236,20 +250,4 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="NewTV超级综艺" tvg-id="N24" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV24.png" group-title="NewTV",NewTV超级综艺
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
 #EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-id="N25" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV25.png" group-title="NewTV",NewTV超级电视剧
-#咪咕体育/44个频道
-#EXTINF:-1 tvg-name="咪咕直播" tvg-id="migu" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="移动咪咕",咪咕直播4K-1
-http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播" tvg-id="migu" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="移动咪咕",咪咕直播4K-2
-http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播" tvg-id="migu" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="移动咪咕",咪咕直播-1
-http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播" tvg-id="migu" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="移动咪咕",咪咕直播-2
-http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播" tvg-id="migu" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="移动咪咕",咪咕直播-3
-http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播" tvg-id="migu" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="移动咪咕",咪咕直播-4
-http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播" tvg-id="migu" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="移动咪咕",咪咕直播-5
-http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播" tvg-id="migu" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="移动咪咕",咪咕直播-6
-http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
