@@ -76,13 +76,13 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221226019/index.m3u8?
 #EXTINF:-1 tvg-name="河南卫视" tvg-id="B16" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Henan.png" group-title="卫视高清",河南卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225806/index.m3u8?
 #EXTINF:-1 tvg-name="湖北卫视" tvg-id="B17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei.png" group-title="卫视高清",湖北卫视
-http://39.135.47.100:6610/PLTV/77777777/224/3221225919/index.m3u8?
+http://39.135.47.100:6610/PLTV/77777777/224/3221225954/index.m3u8?
 #EXTINF:-1 tvg-name="江西卫视" tvg-id="B18" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" group-title="卫视高清",江西卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225957/index.m3u8?
 #EXTINF:-1 tvg-name="吉林卫视" tvg-id="B19" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jilin.png" group-title="卫视高清",吉林卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225678/index.m3u8?
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-id="B20" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning.png" group-title="卫视高清",辽宁卫视
-http://39.135.47.100:6610/PLTV/77777777/224/3221225678/index.m3u8?
+http://39.135.47.100:6610/PLTV/77777777/224/3221226007/index.m3u8?
 #EXTINF:-1 tvg-name="山东卫视" tvg-id="B21" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shandong.png" group-title="卫视高清",山东卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221226010/index.m3u8?
 #EXTINF:-1 tvg-name="深圳卫视" tvg-id="B22" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shenzhen.png" group-title="卫视高清",深圳卫视
