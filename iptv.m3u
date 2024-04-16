@@ -39,7 +39,7 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221226282/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221225910/index.m3u8?
 #EXTINF:-1 tvg-name="CETV1" tvg-id="A21" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV1.png" group-title="央视高清",CETV-1 综合教育
 http://39.135.47.100:6610/PLTV/77777777/224/3221225776/index.m3u8?
-#EXTINF:-1 tvg-name="CETV2" tvg-id="A22" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV2.png" group-title="央视高清",CETV-2 空中课堂
+#EXTINF:-1 tvg-name="CETV4" tvg-id="A22" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV2.png" group-title="央视高清",CETV-2 空中课堂
 http://39.135.47.100:6610/PLTV/77777777/224/3221225881/index.m3u8?
 #EXTINF:-1 tvg-name="CETV3" tvg-id="A23" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV3.png" group-title="央视高清",CETV-4 职业教育
 http://39.135.47.100:6610/PLTV/77777777/224/3221225723/index.m3u8?
