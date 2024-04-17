@@ -155,6 +155,10 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225825/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221225875/index.m3u8?
 #EXTINF:-1 tvg-name="CGTN العربية" tvg-id="CGTN06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="国际时事",CGTN العربية
 http://39.135.47.100:6610/PLTV/77777777/224/3221225822/index.m3u8?
+#EXTINF:-1 tvg-name="贵港新闻综合" tvg-id="Ggxwzh" tvg-logo="" group-title="地市频道",贵港新闻综合
+http://39.135.47.100:6610/PLTV/77777777/224/3221226300/index.m3u8?
+#EXTINF:-1 tvg-name="贵港科教生活" tvg-id="Ggkjsh" tvg-logo="" group-title="地市频道",贵港科教生活
+http://39.135.47.100:6610/PLTV/77777777/224/3221226303/index.m3u8?
 #EXTINF:-1 tvg-name="广西新闻" tvg-id="Gxxw" tvg-logo="" group-title="地市频道",广西新闻
 http://39.135.47.100:6610/PLTV/77777777/224/3221226285/index.m3u8?
 #EXTINF:-1 tvg-name="广西综艺旅游" tvg-id="Gxzyly" tvg-logo="" group-title="地市频道",广西综艺旅游
@@ -201,10 +205,6 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221226328/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221226306/index.m3u8?
 #EXTINF:-1 tvg-name="钦州公共" tvg-id="migu" tvg-logo="" group-title="地市频道",钦州公共
 http://39.135.47.100:6610/PLTV/77777777/224/3221226325/index.m3u8?
-#EXTINF:-1 tvg-name="贵港新闻综合" tvg-id="Ggxwzh" tvg-logo="" group-title="地市频道",贵港新闻综合
-http://39.135.47.100:6610/PLTV/77777777/224/3221226300/index.m3u8?
-#EXTINF:-1 tvg-name="贵港科教生活" tvg-id="Ggkjsh" tvg-logo="" group-title="地市频道",贵港科教生活
-http://39.135.47.100:6610/PLTV/77777777/224/3221226303/index.m3u8?
 #EXTINF:-1 tvg-name="玉林新闻综合" tvg-id="HN09" tvg-logo="" group-title="地市频道",玉林新闻综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226299/index.m3u8?
 #EXTINF:-1 tvg-name="玉林公共" tvg-id="migu" tvg-logo="" group-title="地市频道",玉林公共
