@@ -165,9 +165,9 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221226303/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221226285/index.m3u8?
 #EXTINF:-1 tvg-name="广西综艺旅游" tvg-id="Gxzyly" tvg-logo="" group-title="地市频道",广西综艺旅游
 http://39.135.47.100:6610/PLTV/77777777/224/3221226292/index.m3u8?
-#EXTINF:-1 tvg-name="广西都市" tvg-id="" tvg-logo="" group-title="地市频道",广西都市
+#EXTINF:-1 tvg-name="广西都市" tvg-id="Gxds" tvg-logo="" group-title="地市频道",广西都市
 http://39.135.47.100:6610/PLTV/77777777/224/3221226295/index.m3u8?
-#EXTINF:-1 tvg-name="广西影视" tvg-id="" tvg-logo="" group-title="地市频道",广西影视
+#EXTINF:-1 tvg-name="广西影视" tvg-id="Gxys" tvg-logo="" group-title="地市频道",广西影视
 http://39.135.47.100:6610/PLTV/77777777/224/3221226298/index.m3u8?
 #EXTINF:-1 tvg-name="南宁新闻综合" tvg-id="Nnxwzh" tvg-logo="" group-title="地市频道",南宁新闻综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226281/index.m3u8?
@@ -175,53 +175,53 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221226281/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221226288/index.m3u8?
 #EXTINF:-1 tvg-name="南宁影视娱乐" tvg-id="Nnysyl" tvg-logo="" group-title="地市频道",南宁影视娱乐
 http://39.135.47.100:6610/PLTV/77777777/224/3221226291/index.m3u8?
-#EXTINF:-1 tvg-name="南宁公共" tvg-id="" tvg-logo="" group-title="地市频道",南宁公共
+#EXTINF:-1 tvg-name="南宁公共" tvg-id="Nngg" tvg-logo="" group-title="地市频道",南宁公共
 http://39.135.47.100:6610/PLTV/77777777/224/3221226301/index.m3u8?
-#EXTINF:-1 tvg-name="柳州新闻综合" tvg-id="" tvg-logo="" group-title="地市频道",柳州新闻综合
+#EXTINF:-1 tvg-name="柳州新闻综合" tvg-id="Lzxwzh" tvg-logo="" group-title="地市频道",柳州新闻综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226304/index.m3u8?
-#EXTINF:-1 tvg-name="柳州科教" tvg-id="" tvg-logo="" group-title="地市频道",柳州科教
+#EXTINF:-1 tvg-name="柳州科教" tvg-id="Lzkj" tvg-logo="" group-title="地市频道",柳州科教
 http://39.135.47.100:6610/PLTV/77777777/224/3221226287/index.m3u8?
-#EXTINF:-1 tvg-name="柳州公共" tvg-id="" tvg-logo="" group-title="地市频道",柳州公共
+#EXTINF:-1 tvg-name="柳州公共" tvg-id="Lzgg" tvg-logo="" group-title="地市频道",柳州公共
 http://39.135.47.100:6610/PLTV/77777777/224/3221226307/index.m3u8?
-#EXTINF:-1 tvg-name="桂林新闻综合" tvg-id="" tvg-logo="" group-title="地市频道",桂林新闻综合
+#EXTINF:-1 tvg-name="桂林新闻综合" tvg-id="Glxwzh" tvg-logo="" group-title="地市频道",桂林新闻综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226294/index.m3u8?
-#EXTINF:-1 tvg-name="桂林科教旅游" tvg-id="" tvg-logo="" group-title="地市频道",桂林科教旅游
+#EXTINF:-1 tvg-name="桂林科教旅游" tvg-id="Glkjly" tvg-logo="" group-title="地市频道",桂林科教旅游
 http://39.135.47.100:6610/PLTV/77777777/224/3221226293/index.m3u8?
-#EXTINF:-1 tvg-name="桂林公共频道" tvg-id="" tvg-logo="" group-title="地市频道",桂林公共频道
+#EXTINF:-1 tvg-name="桂林公共频道" tvg-id="Glggpd" tvg-logo="" group-title="地市频道",桂林公共频道
 http://39.135.47.100:6610/PLTV/77777777/224/3221226310/index.m3u8?
-#EXTINF:-1 tvg-name="梧州新闻综合" tvg-id="" tvg-logo="" group-title="地市频道",梧州新闻综合
+#EXTINF:-1 tvg-name="梧州新闻综合" tvg-id="Wzxwzh" tvg-logo="" group-title="地市频道",梧州新闻综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226313/index.m3u8?
-#EXTINF:-1 tvg-name="梧州公共频道" tvg-id="" tvg-logo="" group-title="地市频道",梧州公共频道
+#EXTINF:-1 tvg-name="梧州公共频道" tvg-id="Wzggpd" tvg-logo="" group-title="地市频道",梧州公共频道
 http://39.135.47.100:6610/PLTV/77777777/224/3221226297/index.m3u8?
-#EXTINF:-1 tvg-name="梧州教育生活" tvg-id="" tvg-logo="" group-title="地市频道",梧州教育生活
+#EXTINF:-1 tvg-name="梧州教育生活" tvg-id="Wzjysh" tvg-logo="" group-title="地市频道",梧州教育生活
 http://39.135.47.100:6610/PLTV/77777777/224/3221226316/index.m3u8?
-#EXTINF:-1 tvg-name="北海新闻综合" tvg-id="" tvg-logo="" group-title="地市频道",北海新闻综合
+#EXTINF:-1 tvg-name="北海新闻综合" tvg-id="Bhxwzh" tvg-logo="" group-title="地市频道",北海新闻综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226309/index.m3u8?
-#EXTINF:-1 tvg-name="北海经济科教" tvg-id="" tvg-logo="" group-title="地市频道",北海经济科教
+#EXTINF:-1 tvg-name="北海经济科教" tvg-id="Bhjjkj" tvg-logo="" group-title="地市频道",北海经济科教
 http://39.135.47.100:6610/PLTV/77777777/224/3221226308/index.m3u8?
-#EXTINF:-1 tvg-name="防城港新闻综合" tvg-id="" tvg-logo="" group-title="地市频道",防城港新闻综合
+#EXTINF:-1 tvg-name="防城港新闻综合" tvg-id="Fcgxwzh" tvg-logo="" group-title="地市频道",防城港新闻综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226312/index.m3u8?
-#EXTINF:-1 tvg-name="防城港公共" tvg-id="" tvg-logo="" group-title="地市频道",防城港公共
+#EXTINF:-1 tvg-name="防城港公共" tvg-id="Fcggg" tvg-logo="" group-title="地市频道",防城港公共
 http://39.135.47.100:6610/PLTV/77777777/224/3221226328/index.m3u8?
-#EXTINF:-1 tvg-name="钦州综合" tvg-id="" tvg-logo="" group-title="地市频道",钦州综合
+#EXTINF:-1 tvg-name="钦州综合" tvg-id="Qzzh" tvg-logo="" group-title="地市频道",钦州综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226306/index.m3u8?
-#EXTINF:-1 tvg-name="钦州公共" tvg-id="" tvg-logo="" group-title="地市频道",钦州公共
+#EXTINF:-1 tvg-name="钦州公共" tvg-id="Qzgg" tvg-logo="" group-title="地市频道",钦州公共
 http://39.135.47.100:6610/PLTV/77777777/224/3221226325/index.m3u8?
-#EXTINF:-1 tvg-name="玉林新闻综合" tvg-id="" tvg-logo="" group-title="地市频道",玉林新闻综合
+#EXTINF:-1 tvg-name="玉林新闻综合" tvg-id="Ylxwzh" tvg-logo="" group-title="地市频道",玉林新闻综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226299/index.m3u8?
-#EXTINF:-1 tvg-name="玉林公共" tvg-id="" tvg-logo="" group-title="地市频道",玉林公共
+#EXTINF:-1 tvg-name="玉林公共" tvg-id="Ylgg" tvg-logo="" group-title="地市频道",玉林公共
 http://39.135.47.100:6610/PLTV/77777777/224/3221226319/index.m3u8?
-#EXTINF:-1 tvg-name="百色综合" tvg-id="" tvg-logo="" group-title="地市频道",百色综合
+#EXTINF:-1 tvg-name="百色综合" tvg-id="Bszh" tvg-logo="" group-title="地市频道",百色综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226322/index.m3u8?
-#EXTINF:-1 tvg-name="贺州综合" tvg-id="" tvg-logo="" group-title="地市频道",贺州综合
+#EXTINF:-1 tvg-name="贺州综合" tvg-id="Hzzh" tvg-logo="" group-title="地市频道",贺州综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226296/index.m3u8?
-#EXTINF:-1 tvg-name="河池新闻综合" tvg-id="" tvg-logo="" group-title="地市频道",河池新闻综合
+#EXTINF:-1 tvg-name="河池新闻综合" tvg-id="Hcxwzh" tvg-logo="" group-title="地市频道",河池新闻综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226302/index.m3u8?
-#EXTINF:-1 tvg-name="河池教育" tvg-id="" tvg-logo="" group-title="地市频道",河池教育
+#EXTINF:-1 tvg-name="河池教育" tvg-id="Hcjy" tvg-logo="" group-title="地市频道",河池教育
 http://39.135.47.100:6610/PLTV/77777777/224/3221226305/index.m3u8?
 #EXTINF:-1 tvg-name="来宾综合" tvg-id="Lbzh" tvg-logo="" group-title="地市频道",来宾综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226296/index.m3u8?
-#EXTINF:-1 tvg-name="崇左综合" tvg-id="" tvg-logo="" group-title="地市频道",崇左综合
+#EXTINF:-1 tvg-name="崇左综合" tvg-id="Czzh" tvg-logo="" group-title="地市频道",崇左综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226314/index.m3u8?
 #EXTINF:-1 tvg-name="NewTV军事评论" tvg-id="N01" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV01.png" group-title="NewTV",NewTV军事评论
 http://39.135.47.100:6610/PLTV/77777777/224/3221225749/index.m3u8?
