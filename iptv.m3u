@@ -96,19 +96,19 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225794/index.m3u8?
 #EXTINF:-1 tvg-name="新疆卫视" tvg-id="B26" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xinjiang.png" group-title="卫视高清",新疆卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225788/index.m3u8?
 #EXTINF:-1 tvg-name="三沙卫视" tvg-id="B27" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sansha.png" group-title="卫视高清",三沙卫视
-http://39.135.47.100:6610/PLTV/77777777/224/3221226315/index.m3u8?
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/08984400000000060000000000000319/1.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-id="B28" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qinghai.png" group-title="卫视高清",青海卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225705/index.m3u8?
 #EXTINF:-1 tvg-name="陕西卫视" tvg-id="B29" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi.png" group-title="卫视高清",陕西卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225754/index.m3u8?
 #EXTINF:-1 tvg-name="山西卫视" tvg-id="B30" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi_.png" group-title="卫视高清",山西卫视
-http://39.135.47.100:6610/PLTV/77777777/224/3221225785/index.m3u8?
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?
 #EXTINF:-1 tvg-name="西藏卫视" tvg-id="B31" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xizang.png" group-title="卫视高清",西藏卫视
-http://39.135.47.100:6610/PLTV/77777777/224/3221225800/index.m3u8?
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-id="B32" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng.png" group-title="卫视高清",内蒙古卫视
-http://39.135.47.100:6610/PLTV/77777777/224/3221225751/index.m3u8?
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000319/index.m3u8?
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-id="B33" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Ningxia.png" group-title="卫视高清",宁夏卫视
-http://39.135.47.100:6610/PLTV/77777777/224/3221225782/index.m3u8?
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000309/index.m3u8?
 #EXTINF:-1 tvg-name="兵团卫视" tvg-id="B34" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Bingtuan.png" group-title="卫视高清",兵团卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225795/index.m3u8?
 #EXTINF:-1 tvg-name="安多卫视" tvg-id="B35" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anduo.png" group-title="卫视高清",安多卫视
