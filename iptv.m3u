@@ -57,7 +57,7 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225889/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221226025/index.m3u8?
 #EXTINF:-1 tvg-name="安徽卫视" tvg-id="B06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anhui.png" group-title="卫视高清",安徽卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225886/index.m3u8?
-#EXTINF:-1 tvg-name="重庆卫视" tvg-id="B07" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/Chongqing.png" group-title="卫视高清",重庆卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-id="B07" tvg-logo="https://cdn.jsdelivr.net/gh/flyfox1/gxgg@main/chongqing.png" group-title="卫视高清",重庆卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225898/index.m3u8?
 #EXTINF:-1 tvg-name="东南卫视" tvg-id="B08" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongnan.png" group-title="卫视高清",东南卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225904/index.m3u8?
