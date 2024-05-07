@@ -229,6 +229,8 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221226314/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221225749/index.m3u8?
 #EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-id="N02" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV02.png" group-title="NewTV",NewTV军旅剧场
 http://39.135.47.100:6610/PLTV/77777777/224/3221225727/index.m3u8?
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-id="N20" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV20.png" group-title="NewTV",NewTV精品纪录
+http://39.135.47.100:6610/PLTV/77777777/224/3221225681/index.m3u8?
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-id="N05" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV05.png" group-title="NewTV",NewTV家庭剧场
 http://39.135.47.100:6610/PLTV/77777777/224/3221225743/index.m3u8?
 #EXTINF:-1 tvg-name="NewTV中国功夫" tvg-id="N07" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV07.png" group-title="NewTV",NewTV中国功夫
