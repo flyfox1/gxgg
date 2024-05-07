@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="A01" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视高清",CCTV-1 综合
-http://39.135.47.100:6610/PLTV/77777777/224/3221225934/index.m3u8?
+http://39.135.47.100:6610/PLTV/77777777/224/3221226275/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="A02" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视高清",CCTV-2 财经
 http://39.135.47.100:6610/PLTV/77777777/224/3221225948/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="A03" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV3.png" group-title="央视高清",CCTV-3 综艺
@@ -8,9 +8,9 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225916/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="A04" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4.png" group-title="央视高清",CCTV-4 中文国际
 http://39.135.47.100:6610/PLTV/77777777/224/3221225922/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="A05" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png" group-title="央视高清",CCTV-5 体育
-http://39.135.47.100:6610/PLTV/77777777/224/3221225925/index.m3u8?
+http://39.135.47.100:6610/PLTV/77777777/224/3221225801/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV5plus" tvg-id="A06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="央视高清",CCTV-5+ 体育赛事
-http://39.135.47.100:6610/PLTV/77777777/224/3221225712/index.m3u8?
+http://39.135.47.100:6610/PLTV/77777777/224/3221225998/index.m3u8?
 #EXTINF:-1 tvg-id="CCTVfyzq" tvg-name="风云足球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyzq.png" group-title="央视高清",风云足球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="A07" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV6.png" group-title="央视高清",CCTV-6 电影
@@ -28,7 +28,7 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225895/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV12" tvg-id="A13" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV12.png" group-title="央视高清",CCTV-12 社会与法
 http://39.135.47.100:6610/PLTV/77777777/224/3221226013/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="A14" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV13.png" group-title="央视高清",CCTV-13 新闻
-http://39.135.47.100:6610/PLTV/77777777/224/3221226046/index.m3u8?
+http://39.135.47.100:6610/PLTV/77777777/224/3221225759/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="A15" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV14.png" group-title="央视高清",CCTV-14 少儿
 http://39.135.47.100:6610/PLTV/77777777/224/3221225901/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="A16" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV15.png" group-title="央视高清",CCTV-15 音乐
