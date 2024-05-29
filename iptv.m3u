@@ -131,6 +131,10 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 #EXTINF:-1 tvg-name="重温经典" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字高清",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-name="华语影片" tvg-id="hyyp" tvg-logo="" group-title="数字高清",华语影片
+http://gxggtf.x3322.net:88/1905.php?id=1905a
+#EXTINF:-1 tvg-name="美国大片" tvg-id="mgdp" tvg-logo="" group-title="数字高清",美国大片
+http://gxggtf.x3322.net:88/1905.php?id=1905b
 #EXTINF:-1 tvg-name="黑莓电影" tvg-id="hmdy" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="数字高清",黑莓电影
 http://39.135.47.100:6610/PLTV/77777777/224/3221225740/index.m3u8?
 #EXTINF:-1 tvg-name="黑莓动画" tvg-id="hmdh" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdh.png" group-title="数字高清",黑莓动画
