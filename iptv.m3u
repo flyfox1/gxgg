@@ -123,7 +123,7 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225748/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221226273/index.m3u8?
 #EXTINF:-1 tvg-name="厦门卫视" tvg-id="B40" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xiamen.png" group-title="卫视高清",厦门卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225823/index.m3u8?
-#EXTINF:-1 tvg-name="咪咕视频," tvg-id="B40" tvg-logo="" group-title="卫视高清",咪咕视频-体育
+#EXTINF:-1 tvg-name="咪咕视频" tvg-id="B40" tvg-logo="" group-title="卫视高清",咪咕视频-体育
 http://39.135.47.100:6610/PLTV/77777777/224/3221225961/index.m3u8?
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC1" tvg-logo="https://cdn.jsdelivr.net/gh/flyfox1/gxgg@main/影迷电影.png" group-title="数字高清",CHC影迷电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
