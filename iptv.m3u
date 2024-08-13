@@ -174,7 +174,7 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221226285/index.m3u8?
 #EXTINF:-1 tvg-name="广西综艺旅游" tvg-id="Gxzyly" tvg-logo="" group-title="地市频道",广西综艺旅游
 http://39.135.47.100:6610/PLTV/77777777/224/3221226292/index.m3u8?
 #EXTINF:-1 tvg-name="广西都市" tvg-id="Gxds" tvg-logo="" group-title="地市频道",广西都市
-http://[2409:8087:5c0b:10:2::77]:6610/PLTV/77777777/224/3221226295/index.m3u8?
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226295/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="广西影视" tvg-id="Gxys" tvg-logo="" group-title="地市频道",广西影视
 http://39.135.47.100:6610/PLTV/77777777/224/3221226298/index.m3u8?
 #EXTINF:-1 tvg-name="南宁新闻综合" tvg-id="Nnxwzh" tvg-logo="" group-title="地市频道",南宁新闻综合
