@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.erw.cc/allcc.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="A01" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视高清",CCTV-1 综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226275/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="A02" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视高清",CCTV-2 财经
@@ -67,6 +67,8 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225764/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221225913/index.m3u8?
 #EXTINF:-1 tvg-name="广西卫视" tvg-id="B11" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangxi.png" group-title="卫视高清",广西卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225767/index.m3u8?
+#EXTINF:-1 tvg-name="广西卫视" tvg-id="B11" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangxi.png" group-title="卫视高清",广西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-id="B12" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou.png" group-title="卫视高清",贵州卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225770/index.m3u8?
 #EXTINF:-1 tvg-name="海南卫视" tvg-id="B13" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hainan.png" group-title="卫视高清",海南卫视
