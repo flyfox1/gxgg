@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.erw.cc/allcc.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="A01" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视高清",CCTV-1 综合
 http://39.135.47.100:6610/PLTV/77777777/224/3221226275/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="A02" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视高清",CCTV-2 财经
@@ -9,7 +9,7 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225916/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221225922/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="A05" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png" group-title="央视高清",CCTV-5 体育
 http://39.135.47.100:6610/PLTV/77777777/224/3221225801/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV5plus" tvg-id="A06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="央视高清",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-name="CCTV5+" tvg-id="A06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="央视高清",CCTV-5+ 体育赛事
 http://39.135.47.100:6610/PLTV/77777777/224/3221225998/index.m3u8?
 #EXTINF:-1 tvg-id="CCTVfyzq" tvg-name="风云足球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyzq.png" group-title="央视高清",风云足球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
@@ -67,8 +67,6 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225764/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221225913/index.m3u8?
 #EXTINF:-1 tvg-name="广西卫视" tvg-id="B11" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangxi.png" group-title="卫视高清",广西卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225767/index.m3u8?
-#EXTINF:-1 tvg-name="广西卫视" tvg-id="B11" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangxi.png" group-title="卫视高清",广西卫视
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226380/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-id="B12" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou.png" group-title="卫视高清",贵州卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225770/index.m3u8?
 #EXTINF:-1 tvg-name="海南卫视" tvg-id="B13" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hainan.png" group-title="卫视高清",海南卫视
@@ -135,9 +133,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 #EXTINF:-1 tvg-name="重温经典" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字高清",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-name="华语影片" tvg-id="hyyp" tvg-logo="" group-title="数字高清",华语影片
+#EXTINF:-1 tvg-name="1905合家欢影院" tvg-id="hyyp" tvg-logo="" group-title="数字高清",1905合家欢影院
 http://gxggtf.x3322.net:88/1905.php?id=1905a
-#EXTINF:-1 tvg-name="美国大片" tvg-id="mgdp" tvg-logo="" group-title="数字高清",美国大片
+#EXTINF:-1 tvg-name="1905环球经典" tvg-id="mgdp" tvg-logo="" group-title="数字高清",1905环球经典
 http://gxggtf.x3322.net:88/1905.php?id=1905b
 #EXTINF:-1 tvg-name="黑莓电影" tvg-id="hmdy" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="数字高清",黑莓电影
 http://39.135.47.100:6610/PLTV/77777777/224/3221225740/index.m3u8?
