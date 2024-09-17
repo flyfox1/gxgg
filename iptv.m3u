@@ -12,7 +12,7 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225801/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="A06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="央视高清",CCTV-5+ 体育赛事
 http://39.135.47.100:6610/PLTV/77777777/224/3221225998/index.m3u8?
 #EXTINF:-1 tvg-id="CCTVfyzq" tvg-name="风云足球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyzq.png" group-title="央视高清",风云足球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
+http://cqcbn2.live.cbncdn.cn:8090/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="A07" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV6.png" group-title="央视高清",CCTV-6 电影
 http://39.135.47.100:6610/PLTV/77777777/224/3221225936/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV7" tvg-id="A08" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV7.png" group-title="央视高清",CCTV-7 国防军事
@@ -126,14 +126,22 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225823/index.m3u8?
 #EXTINF:-1 tvg-name="咪咕视频" tvg-id="B40" tvg-logo="" group-title="卫视高清",咪咕视频-体育
 http://39.135.47.100:6610/PLTV/77777777/224/3221225961/index.m3u8?
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC1" tvg-logo="https://cdn.jsdelivr.net/gh/flyfox1/gxgg@main/影迷电影.png" group-title="数字高清",CHC影迷电影
+http://cqcbn2.live.cbncdn.cn:8090/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="数字高清",CHC家庭影院
+http://cqcbn2.live.cbncdn.cn:8090/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="数字高清",CHC动作电影
+http://cqcbn2.live.cbncdn.cn:8090/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC1" tvg-logo="https://cdn.jsdelivr.net/gh/flyfox1/gxgg@main/影迷电影.png" group-title="数字高清",CHC影迷电影
 http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="数字高清",CHC家庭影院
 http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="数字高清",CHC动作电影
 http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 #EXTINF:-1 tvg-name="重温经典" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字高清",重温经典
+http://cqcbn2.live.cbncdn.cn:8090/__cl/cg:live/__c/cwjdHD/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-name="重温经典" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字高清",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-name="1905合家欢影院" tvg-id="hyyp" tvg-logo="" group-title="数字高清",1905合家欢影院
+#EXTINF:-1 tvg-name="1905合家欢影院" tvg-id="hyyp" tvg-logo="" group-title="数字高清",1905国内电影
 http://gxggtf.x3322.net:88/1905.php?id=1905a
 #EXTINF:-1 tvg-name="1905环球经典" tvg-id="mgdp" tvg-logo="" group-title="数字高清",1905环球经典
 http://gxggtf.x3322.net:88/1905.php?id=1905b
