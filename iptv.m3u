@@ -124,11 +124,11 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221226273/index.m3u8?
 #EXTINF:-1 tvg-name="厦门卫视" tvg-id="B40" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xiamen.png" group-title="卫视高清",厦门卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225823/index.m3u8?
 
-#EXTINF:-1 tvg-name="睛彩竞技 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-miguaoyun2/JCJJYXTBY0719.png" group-title="数字高清",睛彩竞技
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-miguaoyun2/JCJJYXTBY0719.png" group-title="数字高清",睛彩竞技
 http://39.135.47.100:6610/PLTV/77777777/224/3221225972/index.m3u8?
-#EXTINF:-1 tvg-name="睛彩篮球 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-miguaoyun1/JCLQYXTBY0719.png" group-title="数字高清",睛彩篮球
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-miguaoyun1/JCLQYXTBY0719.png" group-title="数字高清",睛彩篮球
 http://39.135.47.100:6610/PLTV/77777777/224/3221225961/index.m3u8?
-#EXTINF:-1 tvg-name="睛彩青少 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-quanminrl/JCQSYXTBY0719.png" group-title="数字高清",睛彩青少
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-quanminrl/JCQSYXTBY0719.png" group-title="数字高清",睛彩青少
 http://39.135.47.100:6610/PLTV/77777777/224/3221226055/index.m3u8?
 
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC1" tvg-logo="https://cdn.jsdelivr.net/gh/flyfox1/gxgg@main/影迷电影.png" group-title="数字高清",CHC影迷电影
