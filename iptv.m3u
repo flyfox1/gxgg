@@ -123,8 +123,14 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225748/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221226273/index.m3u8?
 #EXTINF:-1 tvg-name="厦门卫视" tvg-id="B40" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xiamen.png" group-title="卫视高清",厦门卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225823/index.m3u8?
-#EXTINF:-1 tvg-name="咪咕视频" tvg-id="B40" tvg-logo="" group-title="卫视高清",咪咕视频-体育
+
+#EXTINF:-1 tvg-name="睛彩竞技 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-miguaoyun2/JCJJYXTBY0719.png" group-title="数字高清",睛彩竞技
+http://39.135.47.100:6610/PLTV/77777777/224/3221225972/index.m3u8?
+#EXTINF:-1 tvg-name="睛彩篮球 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-miguaoyun1/JCLQYXTBY0719.png" group-title="数字高清",睛彩篮球
 http://39.135.47.100:6610/PLTV/77777777/224/3221225961/index.m3u8?
+#EXTINF:-1 tvg-name="睛彩青少 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-quanminrl/JCQSYXTBY0719.png" group-title="数字高清",睛彩青少
+http://39.135.47.100:6610/PLTV/77777777/224/3221226055/index.m3u8?
+
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC1" tvg-logo="https://cdn.jsdelivr.net/gh/flyfox1/gxgg@main/影迷电影.png" group-title="数字高清",CHC影迷电影
 http://cqcbn2.live.cbncdn.cn:8090/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="数字高清",CHC家庭影院
@@ -141,7 +147,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 http://cqcbn2.live.cbncdn.cn:8090/__cl/cg:live/__c/cwjdHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字高清",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-name="1905合家欢影院" tvg-id="hyyp" tvg-logo="" group-title="数字高清",1905国内电影
+#EXTINF:-1 tvg-name="1905国内电影" tvg-id="hyyp" tvg-logo="" group-title="数字高清",1905国内电影
 http://gxggtf.x3322.net:88/1905.php?id=1905a
 #EXTINF:-1 tvg-name="1905环球经典" tvg-id="mgdp" tvg-logo="" group-title="数字高清",1905环球经典
 http://gxggtf.x3322.net:88/1905.php?id=1905b
