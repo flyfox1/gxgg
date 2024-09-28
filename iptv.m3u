@@ -147,7 +147,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 http://cqcbn2.live.cbncdn.cn:8090/__cl/cg:live/__c/cwjdHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字高清",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-name="1905极限反转" tvg-id="hyyp" tvg-logo="" group-title="数字高清",1905国内电影
+#EXTINF:-1 tvg-name="1905极限反转" tvg-id="hyyp" tvg-logo="" group-title="数字高清",1905极限反转
 http://gxggtf.x3322.net:88/1905.php?id=1905a
 #EXTINF:-1 tvg-name="1905环球经典" tvg-id="mgdp" tvg-logo="" group-title="数字高清",1905环球经典
 http://gxggtf.x3322.net:88/1905.php?id=1905b
