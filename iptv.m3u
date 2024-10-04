@@ -132,22 +132,14 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225961/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221226055/index.m3u8?
 
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC1" tvg-logo="https://cdn.jsdelivr.net/gh/flyfox1/gxgg@main/影迷电影.png" group-title="数字高清",CHC影迷电影
-http://cqcbn2.live.cbncdn.cn:8090/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="数字高清",CHC家庭影院
-http://cqcbn2.live.cbncdn.cn:8090/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="数字高清",CHC动作电影
-http://cqcbn2.live.cbncdn.cn:8090/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC1" tvg-logo="https://cdn.jsdelivr.net/gh/flyfox1/gxgg@main/影迷电影.png" group-title="数字高清",CHC影迷电影
 http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="数字高清",CHC家庭影院
 http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="数字高清",CHC动作电影
 http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 #EXTINF:-1 tvg-name="重温经典" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字高清",重温经典
-http://cqcbn2.live.cbncdn.cn:8090/__cl/cg:live/__c/cwjdHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字高清",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-name="1905极限反转" tvg-id="hyyp" tvg-logo="" group-title="数字高清",1905极限反转
+#EXTINF:-1 tvg-name="1905极限反转" tvg-id="hyyp" tvg-logo="" group-title="数字高清",1905国内电影
 http://gxggtf.x3322.net:88/1905.php?id=1905a
 #EXTINF:-1 tvg-name="1905环球经典" tvg-id="mgdp" tvg-logo="" group-title="数字高清",1905环球经典
 http://gxggtf.x3322.net:88/1905.php?id=1905b
