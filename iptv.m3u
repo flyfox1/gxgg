@@ -132,11 +132,11 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225961/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221226055/index.m3u8?
 
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字高清",劲爆体育
-http://gslbservzqhsw.itv.cmvideo.cn/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
+http://39.134.136.161:6610/000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字高清",魅力足球
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
+http://39.134.136.161:6610/000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="数字高清",五星体育
-http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+http://39.134.136.161:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
 
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="fct" tvg-logo="" group-title="数字高清",翡翠台
 https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
