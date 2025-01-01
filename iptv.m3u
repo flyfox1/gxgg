@@ -51,10 +51,10 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225919/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221225928/index.m3u8?
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="B03" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" group-title="卫视高清",东方卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225942/index.m3u8?
-#EXTINF:-1 tvg-name="北京卫视" tvg-id="B04" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="卫视高清",北京卫视
-http://39.135.47.100:6610/PLTV/77777777/224/3221225889/index.m3u8?
 #EXTINF:-1 tvg-name="江苏卫视" tvg-id="B05" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu.png" group-title="卫视高清",江苏卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221226025/index.m3u8?
+#EXTINF:-1 tvg-name="北京卫视" tvg-id="B04" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="卫视高清",北京卫视
+http://39.135.47.100:6610/PLTV/77777777/224/3221225889/index.m3u8?
 #EXTINF:-1 tvg-name="安徽卫视" tvg-id="B06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anhui.png" group-title="卫视高清",安徽卫视
 http://39.135.47.100:6610/PLTV/77777777/224/3221225886/index.m3u8?
 #EXTINF:-1 tvg-name="重庆卫视" tvg-id="B07" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/Chongqing.png" group-title="卫视高清",重庆卫视
