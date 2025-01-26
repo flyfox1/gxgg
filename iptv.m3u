@@ -12,7 +12,7 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225801/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="A06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="央视高清",CCTV-5+ 体育赛事
 http://39.135.47.100:6610/PLTV/77777777/224/3221225998/index.m3u8?
 #EXTINF:-1 tvg-id="CCTVfyzq" tvg-name="风云足球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyzq.png" group-title="央视高清",风云足球
-http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
+http://gxggtf.x3322.net:88/jsyd.php?p=gitv&id=G_FENGSHANGZQ-CQ
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="A07" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV6.png" group-title="央视高清",CCTV-6 电影
 http://39.135.47.100:6610/PLTV/77777777/224/3221225936/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV7" tvg-id="A08" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV7.png" group-title="央视高清",CCTV-7 国防军事
@@ -158,6 +158,16 @@ http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 http://gxggtf.x3322.net:88/1905.php?id=1905a
 #EXTINF:-1 tvg-name="1905环球经典" tvg-id="mgdp" tvg-logo="" group-title="数字高清",1905环球经典
 http://gxggtf.x3322.net:88/1905.php?id=1905b
+
+#EXTINF:-1 tvg-name="北京淘电影" tvg-id="hyyp" tvg-logo="" group-title="数字高清",北京淘电影
+http://[2409:8087:8:20::1c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="北京淘剧场" tvg-id="hyyp" tvg-logo="" group-title="数字高清",北京淘剧场
+http://[2409:8087:8:20::1c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~QaJ92NID2SpQlY6_VJVogg~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887497%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266383_0%2CEND&GuardEncType=2&from=6&popid=6&hms_devid=3729&prioritypopid=6&vqe=3
+#EXTINF:-1 tvg-name="北京超清电影" tvg-id="hyyp" tvg-logo="" group-title="数字高清",北京超清电影
+http://[2409:8087:8:20::c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887500%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=3
+
+
+
 #EXTINF:-1 tvg-name="4K影院" tvg-id="4kyy" tvg-logo="" group-title="数字高清",4K影院
 http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
 #EXTINF:-1 tvg-name="魅力潇湘" tvg-id="mlxx" tvg-logo="" group-title="数字高清",魅力潇湘
