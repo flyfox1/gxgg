@@ -163,6 +163,13 @@ http://gxggtf.x3322.net:88/1905.php?id=1905a
 #EXTINF:-1 tvg-name="1905环球经典" tvg-id="mgdp" tvg-logo="" group-title="数字高清",1905环球经典
 http://gxggtf.x3322.net:88/1905.php?id=1905b
 
+#EXTINF:-1 tvg-name="北京淘电影" tvg-id="hyyp" tvg-logo="" group-title="数字高清",北京淘电影
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+#EXTINF:-1 tvg-name="北京淘剧场" tvg-id="hyyp" tvg-logo="" group-title="数字高清",北京淘剧场
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
+#EXTINF:-1 tvg-name="北京4K超清" tvg-id="hyyp" tvg-logo="" group-title="数字高清",北京4K超清
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+
 #EXTINF:-1 tvg-name="4K影院" tvg-id="4kyy" tvg-logo="" group-title="数字高清",4K影院
 http://111.29.9.36:6610/000000001000/1/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
 #EXTINF:-1 tvg-name="魅力潇湘" tvg-id="mlxx" tvg-logo="" group-title="数字高清",魅力潇湘
