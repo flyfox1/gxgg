@@ -8,7 +8,7 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225916/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="A04" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4.png" group-title="央视高清",CCTV-4 中文国际
 http://39.135.47.100:6610/PLTV/77777777/224/3221225922/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="A05" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png" group-title="央视高清",CCTV-5 体育
-http://39.135.47.100:6610/PLTV/77777777/224/3221225801/index.m3u8?
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225801/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="A06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="央视高清",CCTV-5+ 体育赛事
 http://39.135.47.100:6610/PLTV/77777777/224/3221225998/index.m3u8?
 #EXTINF:-1 tvg-id="CCTVfyzq" tvg-name="风云足球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyzq.png" group-title="央视高清",风云足球
