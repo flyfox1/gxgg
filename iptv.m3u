@@ -148,7 +148,7 @@ http://gxggtf.x3322.net:88/bst.php?ip=120.221.152.141&id=xsjhd8m/8000000.m3u8&h=
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="数字高清",广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-name="北京体育" tvg-logo="https://live.fanmingming.com/tv/北京体育.png" group-title="数字高清",北京体育
-http://tv.bfsu.edu.cn/hls/btv11hd.m3u8
+http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND
 
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="fct" tvg-logo="" group-title="数字高清",翡翠台
 https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
