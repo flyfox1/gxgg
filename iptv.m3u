@@ -142,7 +142,7 @@ http://gxggtf.x3322.net:88/bst.php?ip=120.221.152.141&id=jbtyhd8m/8000000.m3u8&h
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字高清",魅力足球
 http://gxggtf.x3322.net:88/bst.php?ip=120.221.238.246&id=mlyyhd8m/8000000.m3u8&h=xjbuv52-zp.live.bestvcdn.com.cn
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="数字高清",五星体育
-http://gxggtf.x3322.net:88/bst.php?ip=111.62.172.20&id=wxtyhd8m/8000000.m3u8&h=xjbuv52-zp.live.bestvcdn.com.cn
+https://ali.hlspull.yximgs.com/live/diyp_wuxing.flv
 #EXTINF:-1 tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="数字高清",新视觉
 http://gxggtf.x3322.net:88/bst.php?ip=120.221.152.141&id=xsjhd8m/8000000.m3u8&h=xjbuv52-zp.live.bestvcdn.com.cn
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="数字高清",广东体育
@@ -162,6 +162,8 @@ http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-name="重温经典" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字高清",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-name="重温经典" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字高清",重温经典
+https://cdn3.163189.xyz/live/cwjd/stream.m3u8
 #EXTINF:-1 tvg-name="1905极限反转" tvg-id="hyyp" tvg-logo="" group-title="数字高清",1905国内电影
 http://gxggtf.x3322.net:88/1905.php?id=1905a
 #EXTINF:-1 tvg-name="1905环球经典" tvg-id="mgdp" tvg-logo="" group-title="数字高清",1905环球经典
