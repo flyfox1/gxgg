@@ -127,9 +127,9 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221226273/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221225823/index.m3u8?
 
 #EXTINF:-1 tvg-name="上视东方财经" tvg-logo="" group-title="数字高清",上视东方财经
-http://gxggtf.x3322.net:88/bst.php?ip=120.221.238.246&id=dfcjhd8m/8000000.m3u8&h=xjbuv52-zp.live.bestvcdn.com.cn
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=toShengfen&mode=1
 #EXTINF:-1 tvg-name="上视第一财经" tvg-logo="" group-title="数字高清",上视第一财经
-http://gxggtf.x3322.net:88/bst.php?ip=111.62.172.20&id=dycjhd8m/8000000.m3u8&h=xjbuv52-zp.live.bestvcdn.com.cn
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000004&livemode=1&stbId=toShengfen&mode=1
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-miguaoyun2/JCJJYXTBY0719.png" group-title="数字高清",睛彩竞技
 http://39.135.47.100:6610/PLTV/77777777/224/3221225972/index.m3u8?
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-miguaoyun1/JCLQYXTBY0719.png" group-title="数字高清",睛彩篮球
