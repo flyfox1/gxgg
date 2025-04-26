@@ -11,6 +11,8 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221225922/index.m3u8?
 http://39.135.47.108:6610/PLTV/77777777/224/3221225801/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="A06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="央视高清",CCTV-5+ 体育赛事
 http://39.135.47.100:6610/PLTV/77777777/224/3221225998/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV16" tvg-id="A17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png" group-title="央视高清",CCTV-16 奥林匹克
+http://39.135.47.100:6610/PLTV/77777777/224/3221225937/index.m3u8?
 #EXTINF:-1 tvg-id="CCTVfyzq" tvg-name="风云足球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyzq.png" group-title="央视高清",风云足球
 http://221.130.100.210:8991/hls.p2p.com/183.207.249.71/ott.mobaibox.com/PLTV/4/224/3221228668/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="A07" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV6.png" group-title="央视高清",CCTV-6 电影
@@ -33,8 +35,6 @@ http://39.135.47.100:6610/PLTV/77777777/224/3221226046/index.m3u8?
 http://39.135.47.100:6610/PLTV/77777777/224/3221225901/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="A16" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV15.png" group-title="央视高清",CCTV-15 音乐
 http://39.135.47.100:6610/PLTV/77777777/224/3221225945/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV16" tvg-id="A17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png" group-title="央视高清",CCTV-16 奥林匹克
-http://39.135.47.100:6610/PLTV/77777777/224/3221225937/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="A17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png" group-title="央视高清",CCTV-16 奥林匹克 4K
 http://39.135.47.100:6610/PLTV/77777777/224/3221226282/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="A18" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png" group-title="央视高清",CCTV-17 农业农村
