@@ -1,141 +1,141 @@
 #EXTM3U url-tvg="http://e.erw.cc/allcc.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="A01" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视高清",CCTV-1 综合
-http://192.168.2.1:81/gxyd.php?id=3221225934
+http://45.62.112.248/gxyd.php?id=3221225934
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="A02" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视高清",CCTV-2 财经
-http://192.168.2.1:81/gxyd.php?id=3221225948
+http://45.62.112.248/gxyd.php?id=3221225948
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="A03" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV3.png" group-title="央视高清",CCTV-3 综艺
-http://192.168.2.1:81/gxyd.php?id=3221225916
+http://45.62.112.248/gxyd.php?id=3221225916
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="A04" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4.png" group-title="央视高清",CCTV-4 中文国际
-http://192.168.2.1:81/gxyd.php?id=3221225922
+http://45.62.112.248/gxyd.php?id=3221225922
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="A05" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png" group-title="央视高清",CCTV-5 体育
-http://192.168.2.1:81/gxyd.php?id=3221225801
+http://45.62.112.248/gxyd.php?id=3221225801
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="A06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="央视高清",CCTV-5+ 体育赛事
-http://192.168.2.1:81/gxyd.php?id=3221225998
+http://45.62.112.248/gxyd.php?id=3221225998
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="A17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png" group-title="央视高清",CCTV-16 奥林匹克
-http://192.168.2.1:81/gxyd.php?id=3221225937
+http://45.62.112.248/gxyd.php?id=3221225937
 #EXTINF:-1 tvg-id="CCTVfyzq" tvg-name="风云足球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyzq.png" group-title="央视高清",风云足球
 http://221.130.100.210:8991/hls.p2p.com/183.207.249.71/ott.mobaibox.com/PLTV/4/224/3221228668/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="A07" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV6.png" group-title="央视高清",CCTV-6 电影
-http://192.168.2.1:81/gxyd.php?id=3221225936
+http://45.62.112.248/gxyd.php?id=3221225936
 #EXTINF:-1 tvg-name="CCTV7" tvg-id="A08" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV7.png" group-title="央视高清",CCTV-7 国防军事
-http://192.168.2.1:81/gxyd.php?id=3221225892
+http://45.62.112.248/gxyd.php?id=3221225892
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="A09" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8.png" group-title="央视高清",CCTV-8 电视剧
-http://192.168.2.1:81/gxyd.php?id=3221226001
+http://45.62.112.248/gxyd.php?id=3221226001
 #EXTINF:-1 tvg-name="CCTV9" tvg-id="A10" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV9.png" group-title="央视高清",CCTV-9 纪录
-http://192.168.2.1:81/gxyd.php?id=3221225939
+http://45.62.112.248/gxyd.php?id=3221225939
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="A11" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV10.png" group-title="央视高清",CCTV-10 科教
-http://192.168.2.1:81/gxyd.php?id=3221226004
+http://45.62.112.248/gxyd.php?id=3221226004
 #EXTINF:-1 tvg-name="CCTV11" tvg-id="A12" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV11.png" group-title="央视高清",CCTV-11 戏曲
-http://192.168.2.1:81/gxyd.php?id=3221225895
+http://45.62.112.248/gxyd.php?id=3221225895
 #EXTINF:-1 tvg-name="CCTV12" tvg-id="A13" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV12.png" group-title="央视高清",CCTV-12 社会与法
-http://192.168.2.1:81/gxyd.php?id=3221226013
+http://45.62.112.248/gxyd.php?id=3221226013
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="A14" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV13.png" group-title="央视高清",CCTV-13 新闻
-http://192.168.2.1:81/gxyd.php?id=3221226046
+http://45.62.112.248/gxyd.php?id=3221226046
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="A15" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV14.png" group-title="央视高清",CCTV-14 少儿
-http://192.168.2.1:81/gxyd.php?id=3221225901
+http://45.62.112.248/gxyd.php?id=3221225901
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="A16" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV15.png" group-title="央视高清",CCTV-15 音乐
-http://192.168.2.1:81/gxyd.php?id=3221225945
+http://45.62.112.248/gxyd.php?id=3221225945
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="A17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png" group-title="央视高清",CCTV-16 奥林匹克 4K
-http://192.168.2.1:81/gxyd.php?id=3221226282
+http://45.62.112.248/gxyd.php?id=3221226282
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="A18" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png" group-title="央视高清",CCTV-17 农业农村
-http://192.168.2.1:81/gxyd.php?id=3221225910
+http://45.62.112.248/gxyd.php?id=3221225910
 #EXTINF:-1 tvg-name="CETV1" tvg-id="A21" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV1.png" group-title="央视高清",CETV-1 综合教育
-http://192.168.2.1:81/gxyd.php?id=3221225776
+http://45.62.112.248/gxyd.php?id=3221225776
 #EXTINF:-1 tvg-name="CETV2" tvg-id="A22" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV2.png" group-title="央视高清",CETV-2 空中课堂
-http://192.168.2.1:81/gxyd.php?id=3221225881
+http://45.62.112.248/gxyd.php?id=3221225881
 #EXTINF:-1 tvg-name="CETV4" tvg-id="A23" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png" group-title="央视高清",CETV-4 职业教育
-http://192.168.2.1:81/gxyd.php?id=3221225723
+http://45.62.112.248/gxyd.php?id=3221225723
 #EXTINF:-1 tvg-name="广东珠江" tvg-id="B01" tvg-logo="" group-title="卫视高清",广东珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 tvg-name="湖南卫视" tvg-id="B01" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视高清",湖南卫视
-http://192.168.2.1:81/gxyd.php?id=3221225919
+http://45.62.112.248/gxyd.php?id=3221225919
 #EXTINF:-1 tvg-name="浙江卫视" tvg-id="B02" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png" group-title="卫视高清",浙江卫视
-http://192.168.2.1:81/gxyd.php?id=3221225928
+http://45.62.112.248/gxyd.php?id=3221225928
 #EXTINF:-1 tvg-name="东方卫视" tvg-id="B03" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" group-title="卫视高清",东方卫视
-http://192.168.2.1:81/gxyd.php?id=3221225942
+http://45.62.112.248/gxyd.php?id=3221225942
 #EXTINF:-1 tvg-name="江苏卫视" tvg-id="B05" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu.png" group-title="卫视高清",江苏卫视
-http://192.168.2.1:81/gxyd.php?id=3221226025
+http://45.62.112.248/gxyd.php?id=3221226025
 #EXTINF:-1 tvg-name="北京卫视" tvg-id="B04" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="卫视高清",北京卫视
-http://192.168.2.1:81/gxyd.php?id=3221225889
+http://45.62.112.248/gxyd.php?id=3221225889
 #EXTINF:-1 tvg-name="安徽卫视" tvg-id="B06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anhui.png" group-title="卫视高清",安徽卫视
-http://192.168.2.1:81/gxyd.php?id=3221225886
+http://45.62.112.248/gxyd.php?id=3221225886
 #EXTINF:-1 tvg-name="重庆卫视" tvg-id="B07" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/Chongqing.png" group-title="卫视高清",重庆卫视
-http://192.168.2.1:81/gxyd.php?id=3221225898
+http://45.62.112.248/gxyd.php?id=3221225898
 #EXTINF:-1 tvg-name="东南卫视" tvg-id="B08" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongnan.png" group-title="卫视高清",东南卫视
-http://192.168.2.1:81/gxyd.php?id=3221225904
+http://45.62.112.248/gxyd.php?id=3221225904
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-id="B09" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu.png" group-title="卫视高清",甘肃卫视
-http://192.168.2.1:81/gxyd.php?id=3221225764
+http://45.62.112.248/gxyd.php?id=3221225764
 #EXTINF:-1 tvg-name="广东卫视" tvg-id="B10" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong.png" group-title="卫视高清",广东卫视
-http://192.168.2.1:81/gxyd.php?id=3221225913
+http://45.62.112.248/gxyd.php?id=3221225913
 #EXTINF:-1 tvg-name="广西卫视" tvg-id="B11" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangxi.png" group-title="卫视高清",广西卫视
-http://192.168.2.1:81/gxyd.php?id=3221225767
+http://45.62.112.248/gxyd.php?id=3221225767
 #EXTINF:-1 tvg-name="贵州卫视" tvg-id="B12" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou.png" group-title="卫视高清",贵州卫视
-http://192.168.2.1:81/gxyd.php?id=3221225770
+http://45.62.112.248/gxyd.php?id=3221225770
 #EXTINF:-1 tvg-name="海南卫视" tvg-id="B13" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hainan.png" group-title="卫视高清",海南卫视
-http://192.168.2.1:81/gxyd.php?id=3221225752
+http://45.62.112.248/gxyd.php?id=3221225752
 #EXTINF:-1 tvg-name="河北卫视" tvg-id="B14" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hebei.png" group-title="卫视高清",河北卫视
-http://192.168.2.1:81/gxyd.php?id=3221225773
+http://45.62.112.248/gxyd.php?id=3221225773
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="B15" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang.png" group-title="卫视高清",黑龙江卫视
-http://192.168.2.1:81/gxyd.php?id=3221226019
+http://45.62.112.248/gxyd.php?id=3221226019
 #EXTINF:-1 tvg-name="河南卫视" tvg-id="B16" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Henan.png" group-title="卫视高清",河南卫视
-http://192.168.2.1:81/gxyd.php?id=3221225806
+http://45.62.112.248/gxyd.php?id=3221225806
 #EXTINF:-1 tvg-name="湖北卫视" tvg-id="B17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei.png" group-title="卫视高清",湖北卫视
-http://192.168.2.1:81/gxyd.php?id=3221225954
+http://45.62.112.248/gxyd.php?id=3221225954
 #EXTINF:-1 tvg-name="江西卫视" tvg-id="B18" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangxi.png" group-title="卫视高清",江西卫视
-http://192.168.2.1:81/gxyd.php?id=3221225957
+http://45.62.112.248/gxyd.php?id=3221225957
 #EXTINF:-1 tvg-name="吉林卫视" tvg-id="B19" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jilin.png" group-title="卫视高清",吉林卫视
-http://192.168.2.1:81/gxyd.php?id=3221225678
+http://45.62.112.248/gxyd.php?id=3221225678
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-id="B20" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning.png" group-title="卫视高清",辽宁卫视
-http://192.168.2.1:81/gxyd.php?id=3221226007
+http://45.62.112.248/gxyd.php?id=3221226007
 #EXTINF:-1 tvg-name="山东卫视" tvg-id="B21" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shandong.png" group-title="卫视高清",山东卫视
-http://192.168.2.1:81/gxyd.php?id=3221226010
+http://45.62.112.248/gxyd.php?id=3221226010
 #EXTINF:-1 tvg-name="深圳卫视" tvg-id="B22" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shenzhen.png" group-title="卫视高清",深圳卫视
-http://192.168.2.1:81/gxyd.php?id=3221225951
+http://45.62.112.248/gxyd.php?id=3221225951
 #EXTINF:-1 tvg-name="四川卫视" tvg-id="B23" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan.png" group-title="卫视高清",四川卫视
-http://192.168.2.1:81/gxyd.php?id=3221225757
+http://45.62.112.248/gxyd.php?id=3221225757
 #EXTINF:-1 tvg-name="天津卫视" tvg-id="B24" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Tianjin.png" group-title="卫视高清",天津卫视
-http://192.168.2.1:81/gxyd.php?id=3221226022
+http://45.62.112.248/gxyd.php?id=3221226022
 #EXTINF:-1 tvg-name="云南卫视" tvg-id="B25" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Yunnan.png" group-title="卫视高清",云南卫视
-http://192.168.2.1:81/gxyd.php?id=3221225794
+http://45.62.112.248/gxyd.php?id=3221225794
 #EXTINF:-1 tvg-name="新疆卫视" tvg-id="B26" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xinjiang.png" group-title="卫视高清",新疆卫视
-http://192.168.2.1:81/gxyd.php?id=3221225788
+http://45.62.112.248/gxyd.php?id=3221225788
 #EXTINF:-1 tvg-name="三沙卫视" tvg-id="B27" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sansha.png" group-title="卫视高清",三沙卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/08984400000000060000000000000319/1.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-id="B28" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qinghai.png" group-title="卫视高清",青海卫视
-http://192.168.2.1:81/gxyd.php?id=3221225705
+http://45.62.112.248/gxyd.php?id=3221225705
 #EXTINF:-1 tvg-name="陕西卫视" tvg-id="B29" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi.png" group-title="卫视高清",陕西卫视
-http://192.168.2.1:81/gxyd.php?id=3221225754
+http://45.62.112.248/gxyd.php?id=3221225754
 #EXTINF:-1 tvg-name="山西卫视" tvg-id="B30" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi_.png" group-title="卫视高清",山西卫视
-http://192.168.2.1:81/gxyd.php?id=3221225785
+http://45.62.112.248/gxyd.php?id=3221225785
 #EXTINF:-1 tvg-name="西藏卫视" tvg-id="B31" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xizang.png" group-title="卫视高清",西藏卫视
-http://192.168.2.1:81/gxyd.php?id=3221225800
+http://45.62.112.248/gxyd.php?id=3221225800
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-id="B32" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng.png" group-title="卫视高清",内蒙古卫视
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000319/index.m3u8?
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-id="B33" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Ningxia.png" group-title="卫视高清",宁夏卫视
-http://192.168.2.1:81/gxyd.php?id=3221225782
+http://45.62.112.248/gxyd.php?id=3221225782
 #EXTINF:-1 tvg-name="兵团卫视" tvg-id="B34" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Bingtuan.png" group-title="卫视高清",兵团卫视
-http://192.168.2.1:81/gxyd.php?id=3221225795
+http://45.62.112.248/gxyd.php?id=3221225795
 #EXTINF:-1 tvg-name="安多卫视" tvg-id="B35" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anduo.png" group-title="卫视高清",安多卫视
-http://192.168.2.1:81/gxyd.php?id=3221226271
+http://45.62.112.248/gxyd.php?id=3221226271
 #EXTINF:-1 tvg-name="康巴卫视" tvg-id="B36" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Kangba.png" group-title="卫视高清",康巴卫视
-http://192.168.2.1:81/gxyd.php?id=3221226270
+http://45.62.112.248/gxyd.php?id=3221226270
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-id="B37" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong10.png" group-title="卫视高清",大湾区卫视
-http://192.168.2.1:81/gxyd.php?id=3221225748
+http://45.62.112.248/gxyd.php?id=3221225748
 #EXTINF:-1 tvg-name="延边卫视" tvg-id="B39" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Yanbian.png" group-title="卫视高清",延边卫视
-http://192.168.2.1:81/gxyd.php?id=3221226273
+http://45.62.112.248/gxyd.php?id=3221226273
 #EXTINF:-1 tvg-name="厦门卫视" tvg-id="B40" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xiamen.png" group-title="卫视高清",厦门卫视
-http://192.168.2.1:81/gxyd.php?id=3221225823
+http://45.62.112.248/gxyd.php?id=3221225823
 0
 #EXTINF:-1 tvg-name="上视东方财经" tvg-logo="" group-title="数字高清",上视东方财经
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=toShengfen&mode=1
 #EXTINF:-1 tvg-name="上视第一财经" tvg-logo="" group-title="数字高清",上视第一财经
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000004&livemode=1&stbId=toShengfen&mode=1
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-miguaoyun2/JCJJYXTBY0719.png" group-title="数字高清",睛彩竞技
-http://192.168.2.1:81/gxyd.php?id=3221225972
+http://45.62.112.248/gxyd.php?id=3221225972
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-miguaoyun1/JCLQYXTBY0719.png" group-title="数字高清",睛彩篮球
-http://192.168.2.1:81/gxyd.php?id=3221225961
+http://45.62.112.248/gxyd.php?id=3221225961
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-quanminrl/JCQSYXTBY0719.png" group-title="数字高清",睛彩青少
-http://192.168.2.1:81/gxyd.php?id=3221226055
+http://45.62.112.248/gxyd.php?id=3221226055
 0
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字高清",劲爆体育
 http://gslbserv.itv.cmvideo.cn/2000000002000000008/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
@@ -155,9 +155,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC1" tvg-logo="https://cdn.jsdelivr.net/gh/flyfox1/gxgg@main/影迷电影.png" group-title="数字高清",CHC影迷电影
 http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-id="CHC2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="数字高清",CHC家庭影院
-http://192.168.2.1:81/gxyd.php?id=3221226401
+http://45.62.112.248/gxyd.php?id=3221226401
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-id="CHC3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="数字高清",CHC动作电影
-http://192.168.2.1:81/gxyd.php?id=3221226408
+http://45.62.112.248/gxyd.php?id=3221226408
 #EXTINF:-1 tvg-name="重温经典" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字高清",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-name="重温经典" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字高清",重温经典
@@ -190,125 +190,125 @@ http://129.151.137.112:50001/TVOD/6000000002000032344/wasusyt/index.m3u8
 http://129.151.137.112:50001/TVOD/6000000002000032052/wasusyt/index.m3u8
 0
 #EXTINF:-1 tvg-name="黑莓电影" tvg-id="hmdy" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="数字高清",黑莓电影
-http://192.168.2.1:81/gxyd.php?id=3221225740
+http://45.62.112.248/gxyd.php?id=3221225740
 #EXTINF:-1 tvg-name="黑莓动画" tvg-id="hmdh" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdh.png" group-title="数字高清",黑莓动画
-http://192.168.2.1:81/gxyd.php?id=3221225710
+http://45.62.112.248/gxyd.php?id=3221225710
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-id="dbdj" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/dbdj.png" group-title="数字高清",哒啵电竞
-http://192.168.2.1:81/gxyd.php?id=3221225880
+http://45.62.112.248/gxyd.php?id=3221225880
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-id="dbss" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/dbss.png" group-title="数字高清",哒啵赛事
-http://192.168.2.1:81/gxyd.php?id=3221225760
+http://45.62.112.248/gxyd.php?id=3221225760
 #EXTINF:-1 tvg-name="纯享4K" tvg-id="xc4k" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cx4k.png" group-title="数字高清",纯享4K
-http://192.168.2.1:81/gxyd.php?id=3221225726
+http://45.62.112.248/gxyd.php?id=3221225726
 #EXTINF:-1 tvg-name="凤凰中文" tvg-id="PH01" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="国际时事",凤凰中文
-http://192.168.2.1:81/gxyd.php?id=3221226331
+http://45.62.112.248/gxyd.php?id=3221226331
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-id="PH02" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="国际时事",凤凰资讯
-http://192.168.2.1:81/gxyd.php?id=3221226324
+http://45.62.112.248/gxyd.php?id=3221226324
 #EXTINF:-1 tvg-name="凤凰香港" tvg-id="PH03" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="国际时事",凤凰香港
-http://192.168.2.1:81/gxyd.php?id=3221226321
+http://45.62.112.248/gxyd.php?id=3221226321
 #EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN01" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png" group-title="国际时事",CGTN
-http://192.168.2.1:81/gxyd.php?id=3221225816
+http://45.62.112.248/gxyd.php?id=3221225816
 #EXTINF:-1 tvg-name="CGTN Documentary" tvg-id="CGTN02" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="国际时事",CGTN Documentary
-http://192.168.2.1:81/gxyd.php?id=3221225707
+http://45.62.112.248/gxyd.php?id=3221225707
 #EXTINF:-1 tvg-name="CGTN Français" tvg-id="CGTN03" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="国际时事",CGTN Français
-http://192.168.2.1:81/gxyd.php?id=3221225878
+http://45.62.112.248/gxyd.php?id=3221225878
 #EXTINF:-1 tvg-name="CGTN Русский" tvg-id="CGTN04" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="国际时事",CGTN Русский
-http://192.168.2.1:81/gxyd.php?id=3221225825
+http://45.62.112.248/gxyd.php?id=3221225825
 #EXTINF:-1 tvg-name="CGTN Español" tvg-id="CGTN05" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="国际时事",CGTN Español
-http://192.168.2.1:81/gxyd.php?id=3221225875
+http://45.62.112.248/gxyd.php?id=3221225875
 #EXTINF:-1 tvg-name="CGTN العربية" tvg-id="CGTN06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="国际时事",CGTN العربية
-http://192.168.2.1:81/gxyd.php?id=3221225822
+http://45.62.112.248/gxyd.php?id=3221225822
 #EXTINF:-1 tvg-name="贵港新闻综合" tvg-id="Ggxwzh" tvg-logo="" group-title="地市频道",贵港新闻综合
-http://192.168.2.1:81/gxyd.php?id=3221226300
+http://45.62.112.248/gxyd.php?id=3221226300
 #EXTINF:-1 tvg-name="贵港科教生活" tvg-id="Ggkjsh" tvg-logo="" group-title="地市频道",贵港科教生活
-http://192.168.2.1:81/gxyd.php?id=3221226303
+http://45.62.112.248/gxyd.php?id=3221226303
 #EXTINF:-1 tvg-name="广西新闻" tvg-id="Gxxw" tvg-logo="" group-title="地市频道",广西新闻
-http://192.168.2.1:81/gxyd.php?id=3221226285
+http://45.62.112.248/gxyd.php?id=3221226285
 #EXTINF:-1 tvg-name="广西综艺旅游" tvg-id="Gxzyly" tvg-logo="" group-title="地市频道",广西综艺旅游
-http://192.168.2.1:81/gxyd.php?id=3221226292
+http://45.62.112.248/gxyd.php?id=3221226292
 #EXTINF:-1 tvg-name="广西都市" tvg-id="Gxds" tvg-logo="" group-title="地市频道",广西都市
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226295/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="广西影视" tvg-id="Gxys" tvg-logo="" group-title="地市频道",广西影视
-http://192.168.2.1:81/gxyd.php?id=3221226298
+http://45.62.112.248/gxyd.php?id=3221226298
 #EXTINF:-1 tvg-name="南宁新闻综合" tvg-id="Nnxwzh" tvg-logo="" group-title="地市频道",南宁新闻综合
-http://192.168.2.1:81/gxyd.php?id=3221226281
+http://45.62.112.248/gxyd.php?id=3221226281
 #EXTINF:-1 tvg-name="南宁文旅生活" tvg-id="Nnwlsh" tvg-logo="" group-title="地市频道",南宁文旅生活
-http://192.168.2.1:81/gxyd.php?id=3221226288
+http://45.62.112.248/gxyd.php?id=3221226288
 #EXTINF:-1 tvg-name="南宁影视娱乐" tvg-id="Nnysyl" tvg-logo="" group-title="地市频道",南宁影视娱乐
-http://192.168.2.1:81/gxyd.php?id=3221226291
+http://45.62.112.248/gxyd.php?id=3221226291
 #EXTINF:-1 tvg-name="南宁公共" tvg-id="Nngg" tvg-logo="" group-title="地市频道",南宁公共
-http://192.168.2.1:81/gxyd.php?id=3221226301
+http://45.62.112.248/gxyd.php?id=3221226301
 #EXTINF:-1 tvg-name="柳州新闻综合" tvg-id="Lzxwzh" tvg-logo="" group-title="地市频道",柳州新闻综合
-http://192.168.2.1:81/gxyd.php?id=3221226304
+http://45.62.112.248/gxyd.php?id=3221226304
 #EXTINF:-1 tvg-name="柳州科教" tvg-id="Lzkj" tvg-logo="" group-title="地市频道",柳州科教
-http://192.168.2.1:81/gxyd.php?id=3221226287
+http://45.62.112.248/gxyd.php?id=3221226287
 #EXTINF:-1 tvg-name="柳州公共" tvg-id="Lzgg" tvg-logo="" group-title="地市频道",柳州公共
-http://192.168.2.1:81/gxyd.php?id=3221226307
+http://45.62.112.248/gxyd.php?id=3221226307
 #EXTINF:-1 tvg-name="桂林新闻综合" tvg-id="Glxwzh" tvg-logo="" group-title="地市频道",桂林新闻综合
-http://192.168.2.1:81/gxyd.php?id=3221226294
+http://45.62.112.248/gxyd.php?id=3221226294
 #EXTINF:-1 tvg-name="桂林科教旅游" tvg-id="Glkjly" tvg-logo="" group-title="地市频道",桂林科教旅游
-http://192.168.2.1:81/gxyd.php?id=3221226293
+http://45.62.112.248/gxyd.php?id=3221226293
 #EXTINF:-1 tvg-name="桂林公共频道" tvg-id="Glggpd" tvg-logo="" group-title="地市频道",桂林公共频道
-http://192.168.2.1:81/gxyd.php?id=3221226310
+http://45.62.112.248/gxyd.php?id=3221226310
 #EXTINF:-1 tvg-name="梧州新闻综合" tvg-id="Wzxwzh" tvg-logo="" group-title="地市频道",梧州新闻综合
-http://192.168.2.1:81/gxyd.php?id=3221226313
+http://45.62.112.248/gxyd.php?id=3221226313
 #EXTINF:-1 tvg-name="梧州公共频道" tvg-id="Wzggpd" tvg-logo="" group-title="地市频道",梧州公共频道
-http://192.168.2.1:81/gxyd.php?id=3221226297
+http://45.62.112.248/gxyd.php?id=3221226297
 #EXTINF:-1 tvg-name="梧州教育生活" tvg-id="Wzjysh" tvg-logo="" group-title="地市频道",梧州教育生活
-http://192.168.2.1:81/gxyd.php?id=3221226316
+http://45.62.112.248/gxyd.php?id=3221226316
 #EXTINF:-1 tvg-name="北海新闻综合" tvg-id="Bhxwzh" tvg-logo="" group-title="地市频道",北海新闻综合
-http://192.168.2.1:81/gxyd.php?id=3221226309
+http://45.62.112.248/gxyd.php?id=3221226309
 #EXTINF:-1 tvg-name="北海经济科教" tvg-id="Bhjjkj" tvg-logo="" group-title="地市频道",北海经济科教
-http://192.168.2.1:81/gxyd.php?id=3221226308
+http://45.62.112.248/gxyd.php?id=3221226308
 #EXTINF:-1 tvg-name="防城港新闻综合" tvg-id="Fcgxwzh" tvg-logo="" group-title="地市频道",防城港新闻综合
-http://192.168.2.1:81/gxyd.php?id=3221226312
+http://45.62.112.248/gxyd.php?id=3221226312
 #EXTINF:-1 tvg-name="防城港公共" tvg-id="Fcggg" tvg-logo="" group-title="地市频道",防城港公共
-http://192.168.2.1:81/gxyd.php?id=3221226328
+http://45.62.112.248/gxyd.php?id=3221226328
 #EXTINF:-1 tvg-name="钦州综合" tvg-id="Qzzh" tvg-logo="" group-title="地市频道",钦州综合
-http://192.168.2.1:81/gxyd.php?id=3221226306
+http://45.62.112.248/gxyd.php?id=3221226306
 #EXTINF:-1 tvg-name="钦州公共" tvg-id="Qzgg" tvg-logo="" group-title="地市频道",钦州公共
-http://192.168.2.1:81/gxyd.php?id=3221226325
+http://45.62.112.248/gxyd.php?id=3221226325
 #EXTINF:-1 tvg-name="玉林新闻综合" tvg-id="Ylxwzh" tvg-logo="" group-title="地市频道",玉林新闻综合
-http://192.168.2.1:81/gxyd.php?id=3221226299
+http://45.62.112.248/gxyd.php?id=3221226299
 #EXTINF:-1 tvg-name="玉林公共" tvg-id="Ylgg" tvg-logo="" group-title="地市频道",玉林公共
-http://192.168.2.1:81/gxyd.php?id=3221226319
+http://45.62.112.248/gxyd.php?id=3221226319
 #EXTINF:-1 tvg-name="百色综合" tvg-id="Bszh" tvg-logo="" group-title="地市频道",百色综合
-http://192.168.2.1:81/gxyd.php?id=3221226322
+http://45.62.112.248/gxyd.php?id=3221226322
 #EXTINF:-1 tvg-name="贺州综合" tvg-id="Hzzh" tvg-logo="" group-title="地市频道",贺州综合
-http://192.168.2.1:81/gxyd.php?id=3221226296
+http://45.62.112.248/gxyd.php?id=3221226296
 #EXTINF:-1 tvg-name="河池新闻综合" tvg-id="Hcxwzh" tvg-logo="" group-title="地市频道",河池新闻综合
-http://192.168.2.1:81/gxyd.php?id=3221226302
+http://45.62.112.248/gxyd.php?id=3221226302
 #EXTINF:-1 tvg-name="河池教育" tvg-id="Hcjy" tvg-logo="" group-title="地市频道",河池教育
-http://192.168.2.1:81/gxyd.php?id=3221226305
+http://45.62.112.248/gxyd.php?id=3221226305
 #EXTINF:-1 tvg-name="来宾综合" tvg-id="Lbzh" tvg-logo="" group-title="地市频道",来宾综合
-http://192.168.2.1:81/gxyd.php?id=3221226296
+http://45.62.112.248/gxyd.php?id=3221226296
 #EXTINF:-1 tvg-name="崇左综合" tvg-id="Czzh" tvg-logo="" group-title="地市频道",崇左综合
-http://192.168.2.1:81/gxyd.php?id=3221226314
+http://45.62.112.248/gxyd.php?id=3221226314
 #EXTINF:-1 tvg-name="军事评论" tvg-id="N01" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV01.png" group-title="NewTV",NewTV军事评论
-http://192.168.2.1:81/gxyd.php?id=3221225749
+http://45.62.112.248/gxyd.php?id=3221225749
 #EXTINF:-1 tvg-name="军旅剧场" tvg-id="N02" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV02.png" group-title="NewTV",NewTV军旅剧场
-http://192.168.2.1:81/gxyd.php?id=3221225727
+http://45.62.112.248/gxyd.php?id=3221225727
 #EXTINF:-1 tvg-name="精品纪录" tvg-id="N20" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV20.png" group-title="NewTV",NewTV精品纪录
-http://192.168.2.1:81/gxyd.php?id=3221225681
+http://45.62.112.248/gxyd.php?id=3221225681
 #EXTINF:-1 tvg-name="家庭剧场" tvg-id="N05" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV05.png" group-title="NewTV",NewTV家庭剧场
-http://192.168.2.1:81/gxyd.php?id=3221225743
+http://45.62.112.248/gxyd.php?id=3221225743
 #EXTINF:-1 tvg-name="中国功夫" tvg-id="N07" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV07.png" group-title="NewTV",NewTV中国功夫
-http://192.168.2.1:81/gxyd.php?id=3221225690
+http://45.62.112.248/gxyd.php?id=3221225690
 #EXTINF:-1 tvg-name="东北热剧" tvg-id="N09" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV09.png" group-title="NewTV",NewTV东北热剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-id="N10" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV10.png" group-title="NewTV",NewTV惊悚悬疑
-http://192.168.2.1:81/gxyd.php?id=3221225746
+http://45.62.112.248/gxyd.php?id=3221225746
 #EXTINF:-1 tvg-name="明星大片" tvg-id="N12" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV12.png" group-title="NewTV",NewTV明星大片
-http://192.168.2.1:81/gxyd.php?id=3221225733
+http://45.62.112.248/gxyd.php?id=3221225733
 #EXTINF:-1 tvg-name="欢乐剧场" tvg-id="N13" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV13.png" group-title="NewTV",NewTV欢乐剧场
-http://192.168.2.1:81/gxyd.php?id=3221226049
+http://45.62.112.248/gxyd.php?id=3221226049
 #EXTINF:-1 tvg-name="潮妈辣婆" tvg-id="N15" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV15.png" group-title="NewTV",NewTV潮妈辣婆
-http://192.168.2.1:81/gxyd.php?id=3221225709
+http://45.62.112.248/gxyd.php?id=3221225709
 #EXTINF:-1 tvg-name="炫舞未来" tvg-id="N16" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV16.png" group-title="NewTV",NewTV炫舞未来
-http://192.168.2.1:81/gxyd.php?id=3221225973
+http://45.62.112.248/gxyd.php?id=3221225973
 #EXTINF:-1 tvg-name="精品体育" tvg-id="N18" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV18.png" group-title="NewTV",NewTV精品体育
-http://192.168.2.1:81/gxyd.php?id=3221225724
+http://45.62.112.248/gxyd.php?id=3221225724
 #EXTINF:-1 tvg-name="精品大剧" tvg-id="N19" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV19.png" group-title="NewTV",NewTV精品大剧
-http://192.168.2.1:81/gxyd.php?id=3221225737
+http://45.62.112.248/gxyd.php?id=3221225737
 #EXTINF:-1 tvg-name="超级电影" tvg-id="N23" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV23.png" group-title="NewTV",NewTV超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-name="超级综艺" tvg-id="N24" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV24.png" group-title="NewTV",NewTV超级综艺
