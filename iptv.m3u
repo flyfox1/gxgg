@@ -125,7 +125,7 @@ http://45.62.112.248/gxyd.php?id=3221225748
 http://45.62.112.248/gxyd.php?id=3221226273
 #EXTINF:-1 tvg-name="厦门卫视" tvg-id="B40" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xiamen.png" group-title="卫视高清",厦门卫视
 http://45.62.112.248/gxyd.php?id=3221225823
-0
+
 #EXTINF:-1 tvg-name="上视东方财经" tvg-logo="" group-title="数字高清",上视东方财经
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000007000010003/1.m3u8
 #EXTINF:-1 tvg-name="上视第一财经" tvg-logo="" group-title="数字高清",上视第一财经
@@ -136,7 +136,7 @@ http://45.62.112.248/gxyd.php?id=3221225972
 http://45.62.112.248/gxyd.php?id=3221225961
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-quanminrl/JCQSYXTBY0719.png" group-title="数字高清",睛彩青少
 http://45.62.112.248/gxyd.php?id=3221226055
-0
+
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字高清",劲爆体育
 http://gslbserv.itv.cmvideo.cn/2000000002000000008/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字高清",魅力足球
@@ -149,7 +149,7 @@ http://gxggtf.x3322.net:88/bst.php?ip=120.221.152.141&id=xsjhd8m/8000000.m3u8&h=
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-name="北京体育" tvg-logo="https://live.fanmingming.com/tv/北京体育.png" group-title="数字高清",北京体育
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?
-0
+
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="fct" tvg-logo="" group-title="数字高清",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC1" tvg-logo="https://cdn.jsdelivr.net/gh/flyfox1/gxgg@main/影迷电影.png" group-title="数字高清",CHC影迷电影
@@ -168,14 +168,14 @@ https://cdn3.163189.xyz/live/cwjd/stream.m3u8
 http://gxggtf.x3322.net:88/1905.php?id=1905a
 #EXTINF:-1 tvg-name="1905环球经典" tvg-id="mgdp" tvg-logo="" group-title="数字高清",1905环球经典
 http://gxggtf.x3322.net:88/1905.php?id=1905b
-0
+
 #EXTINF:-1 tvg-name="北京淘电影" tvg-id="hyyp" tvg-logo="" group-title="数字高清",北京淘电影
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
 #EXTINF:-1 tvg-name="北京淘剧场" tvg-id="hyyp" tvg-logo="" group-title="数字高清",北京淘剧场
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?
 #EXTINF:-1 tvg-name="北京4K超清" tvg-id="hyyp" tvg-logo="" group-title="数字高清",北京4K超清
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
-0
+
 #EXTINF:-1 tvg-name="4K影院" tvg-id="4kyy" tvg-logo="" group-title="数字高清",4K影院
 http://111.29.9.36:6610/000000001000/1/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
 #EXTINF:-1 tvg-name="魅力潇湘" tvg-id="mlxx" tvg-logo="" group-title="数字高清",魅力潇湘
@@ -188,7 +188,7 @@ http://129.151.137.112:50001/TVOD/6000000002000003382/wasusyt/index.m3u8
 http://129.151.137.112:50001/TVOD/6000000002000032344/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-id="qsjl" tvg-logo="" group-title="数字高清",求索纪录
 http://129.151.137.112:50001/TVOD/6000000002000032052/wasusyt/index.m3u8
-0
+
 #EXTINF:-1 tvg-name="黑莓电影" tvg-id="hmdy" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="数字高清",黑莓电影
 http://45.62.112.248/gxyd.php?id=3221225740
 #EXTINF:-1 tvg-name="黑莓动画" tvg-id="hmdh" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdh.png" group-title="数字高清",黑莓动画
