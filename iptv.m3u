@@ -217,72 +217,66 @@ http://45.62.112.248/gxyd.php?id=3221225825
 http://45.62.112.248/gxyd.php?id=3221225875
 #EXTINF:-1 tvg-name="CGTN العربية" tvg-id="CGTN06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="国际时事",CGTN العربية
 http://45.62.112.248/gxyd.php?id=3221225822
-#EXTINF:-1 tvg-name="贵港新闻综合" tvg-id="Ggxwzh" tvg-logo="" group-title="地市频道",贵港新闻综合
-http://45.62.112.248/gxyd.php?id=3221226300
-#EXTINF:-1 tvg-name="贵港科教生活" tvg-id="Ggkjsh" tvg-logo="" group-title="地市频道",贵港科教生活
-http://45.62.112.248/gxyd.php?id=3221226303
-#EXTINF:-1 tvg-name="广西新闻" tvg-id="Gxxw" tvg-logo="" group-title="地市频道",广西新闻
-http://45.62.112.248/gxyd.php?id=3221226285
-#EXTINF:-1 tvg-name="广西综艺旅游" tvg-id="Gxzyly" tvg-logo="" group-title="地市频道",广西综艺旅游
-http://45.62.112.248/gxyd.php?id=3221226292
-#EXTINF:-1 tvg-name="广西都市" tvg-id="Gxds" tvg-logo="" group-title="地市频道",广西都市
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226295/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="广西影视" tvg-id="Gxys" tvg-logo="" group-title="地市频道",广西影视
-http://45.62.112.248/gxyd.php?id=3221226298
-#EXTINF:-1 tvg-name="南宁新闻综合" tvg-id="Nnxwzh" tvg-logo="" group-title="地市频道",南宁新闻综合
-http://45.62.112.248/gxyd.php?id=3221226281
-#EXTINF:-1 tvg-name="南宁文旅生活" tvg-id="Nnwlsh" tvg-logo="" group-title="地市频道",南宁文旅生活
-http://45.62.112.248/gxyd.php?id=3221226288
-#EXTINF:-1 tvg-name="南宁影视娱乐" tvg-id="Nnysyl" tvg-logo="" group-title="地市频道",南宁影视娱乐
-http://45.62.112.248/gxyd.php?id=3221226291
-#EXTINF:-1 tvg-name="南宁公共" tvg-id="Nngg" tvg-logo="" group-title="地市频道",南宁公共
-http://45.62.112.248/gxyd.php?id=3221226301
-#EXTINF:-1 tvg-name="柳州新闻综合" tvg-id="Lzxwzh" tvg-logo="" group-title="地市频道",柳州新闻综合
-http://45.62.112.248/gxyd.php?id=3221226304
-#EXTINF:-1 tvg-name="柳州科教" tvg-id="Lzkj" tvg-logo="" group-title="地市频道",柳州科教
-http://45.62.112.248/gxyd.php?id=3221226287
-#EXTINF:-1 tvg-name="柳州公共" tvg-id="Lzgg" tvg-logo="" group-title="地市频道",柳州公共
-http://45.62.112.248/gxyd.php?id=3221226307
-#EXTINF:-1 tvg-name="桂林新闻综合" tvg-id="Glxwzh" tvg-logo="" group-title="地市频道",桂林新闻综合
-http://45.62.112.248/gxyd.php?id=3221226294
-#EXTINF:-1 tvg-name="桂林科教旅游" tvg-id="Glkjly" tvg-logo="" group-title="地市频道",桂林科教旅游
-http://45.62.112.248/gxyd.php?id=3221226293
-#EXTINF:-1 tvg-name="桂林公共频道" tvg-id="Glggpd" tvg-logo="" group-title="地市频道",桂林公共频道
-http://45.62.112.248/gxyd.php?id=3221226310
-#EXTINF:-1 tvg-name="梧州新闻综合" tvg-id="Wzxwzh" tvg-logo="" group-title="地市频道",梧州新闻综合
-http://45.62.112.248/gxyd.php?id=3221226313
-#EXTINF:-1 tvg-name="梧州公共频道" tvg-id="Wzggpd" tvg-logo="" group-title="地市频道",梧州公共频道
-http://45.62.112.248/gxyd.php?id=3221226297
-#EXTINF:-1 tvg-name="梧州教育生活" tvg-id="Wzjysh" tvg-logo="" group-title="地市频道",梧州教育生活
-http://45.62.112.248/gxyd.php?id=3221226316
-#EXTINF:-1 tvg-name="北海新闻综合" tvg-id="Bhxwzh" tvg-logo="" group-title="地市频道",北海新闻综合
-http://45.62.112.248/gxyd.php?id=3221226309
-#EXTINF:-1 tvg-name="北海经济科教" tvg-id="Bhjjkj" tvg-logo="" group-title="地市频道",北海经济科教
-http://45.62.112.248/gxyd.php?id=3221226308
-#EXTINF:-1 tvg-name="防城港新闻综合" tvg-id="Fcgxwzh" tvg-logo="" group-title="地市频道",防城港新闻综合
-http://45.62.112.248/gxyd.php?id=3221226312
-#EXTINF:-1 tvg-name="防城港公共" tvg-id="Fcggg" tvg-logo="" group-title="地市频道",防城港公共
-http://45.62.112.248/gxyd.php?id=3221226328
-#EXTINF:-1 tvg-name="钦州综合" tvg-id="Qzzh" tvg-logo="" group-title="地市频道",钦州综合
-http://45.62.112.248/gxyd.php?id=3221226306
-#EXTINF:-1 tvg-name="钦州公共" tvg-id="Qzgg" tvg-logo="" group-title="地市频道",钦州公共
-http://45.62.112.248/gxyd.php?id=3221226325
-#EXTINF:-1 tvg-name="玉林新闻综合" tvg-id="Ylxwzh" tvg-logo="" group-title="地市频道",玉林新闻综合
-http://45.62.112.248/gxyd.php?id=3221226299
-#EXTINF:-1 tvg-name="玉林公共" tvg-id="Ylgg" tvg-logo="" group-title="地市频道",玉林公共
-http://45.62.112.248/gxyd.php?id=3221226319
-#EXTINF:-1 tvg-name="百色综合" tvg-id="Bszh" tvg-logo="" group-title="地市频道",百色综合
-http://45.62.112.248/gxyd.php?id=3221226322
-#EXTINF:-1 tvg-name="贺州综合" tvg-id="Hzzh" tvg-logo="" group-title="地市频道",贺州综合
-http://45.62.112.248/gxyd.php?id=3221226296
-#EXTINF:-1 tvg-name="河池新闻综合" tvg-id="Hcxwzh" tvg-logo="" group-title="地市频道",河池新闻综合
-http://45.62.112.248/gxyd.php?id=3221226302
-#EXTINF:-1 tvg-name="河池教育" tvg-id="Hcjy" tvg-logo="" group-title="地市频道",河池教育
-http://45.62.112.248/gxyd.php?id=3221226305
-#EXTINF:-1 tvg-name="来宾综合" tvg-id="Lbzh" tvg-logo="" group-title="地市频道",来宾综合
-http://45.62.112.248/gxyd.php?id=3221226296
-#EXTINF:-1 tvg-name="崇左综合" tvg-id="Czzh" tvg-logo="" group-title="地市频道",崇左综合
-http://45.62.112.248/gxyd.php?id=3221226314
+
+#EXTINF:-1 tvg-name="贵港新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guigangxwzh/GX1207GGXWTB.png" group-title="本地及特色",贵港新闻综合
+http://45.62.112.248/gxyd.php?id=3221226345
+#EXTINF:-1 tvg-name="贵港科教生活 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guiganggg/GX1207GGKJTB.png" group-title="本地及特色",贵港科教生活
+http://45.62.112.248/gxyd.php?id=3221226424
+#EXTINF:-1 tvg-name="广西综艺旅游 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guangxizyly/GX1207GXZYTB.png" group-title="本地及特色",广西综艺旅游
+http://45.62.112.248/gxyd.php?id=3221226409
+#EXTINF:-1 tvg-name="广西都市 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guangxids/GX1207GXDSTB.png" group-title="本地及特色",广西都市
+http://45.62.112.248/gxyd.php?id=3221226335
+#EXTINF:-1 tvg-name="广西新闻 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guangxixw/GX1207GXXWTB.png" group-title="本地及特色",广西新闻
+http://45.62.112.248/gxyd.php?id=3221226407
+#EXTINF:-1 tvg-name="广西影视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guangxiys/GX1207GXYSTB.png" group-title="本地及特色",广西影视
+http://45.62.112.248/gxyd.php?id=3221226336
+#EXTINF:-1 tvg-name="柳州新闻综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-liuzhouxwzh/GX0802LZZHTB.png" group-title="本地及特色",柳州新闻综合
+http://45.62.112.248/gxyd.php?id=3221226348
+#EXTINF:-1 tvg-name="柳州科教 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-liuzhoukejiao/GX0802LZKJTB.png" group-title="本地及特色",柳州科教
+http://45.62.112.248/gxyd.php?id=3221226434
+#EXTINF:-1 tvg-name="贺州综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-4000k-1080P-gxhzzonghe/GX0802HZZHTB.png" group-title="本地及特色",贺州综合
+http://45.62.112.248/gxyd.php?id=3221226352
+#EXTINF:-1 tvg-name="河池新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-1500k-576P-gxhechixwzh/GX0802HCZHTB.png" group-title="本地及特色",河池新闻综合
+http://45.62.112.248/gxyd.php?id=3221226356
+#EXTINF:-1 tvg-name="玉林新闻综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-5000k-576P-gxyulinxwzh/GX0802YLZHTB.png" group-title="本地及特色",玉林新闻综合
+http://45.62.112.248/gxyd.php?id=3221226354
+#EXTINF:-1 tvg-name="南宁新闻综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-nanningxwzh/xbyxtbn3.png" group-title="本地及特色",南宁新闻综合
+http://45.62.112.248/gxyd.php?id=3221226341
+#EXTINF:-1 tvg-name="南宁文旅生活 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-nanningdssh/xbyxtbn32.png" group-title="本地及特色",南宁文旅生活
+http://45.62.112.248/gxyd.php?id=3221226344
+#EXTINF:-1 tvg-name="南宁公共 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-nanninggg/xbyxtbnn1.png" group-title="本地及特色",南宁公共
+http://45.62.112.248/gxyd.php?id=3221226340
+#EXTINF:-1 tvg-name="南宁影视娱乐 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-nanningyssh/xbyxtbnn2.png" group-title="本地及特色",南宁影视娱乐
+http://45.62.112.248/gxyd.php?id=3221226337
+#EXTINF:-1 tvg-name="北海新闻 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-beihaixwzh/GX0802BHZHTB.png" group-title="本地及特色",北海新闻
+http://45.62.112.248/gxyd.php?id=3221226346
+#EXTINF:-1 tvg-name="北海经济科教 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-gxbeihaikejiao/GX0802BHKJTB.png" group-title="本地及特色",北海经济科教
+http://45.62.112.248/gxyd.php?id=3221226431
+#EXTINF:-1 tvg-name="百色综合 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-gxbaisezh/GX0802BSZHTB.png" group-title="本地及特色",百色综合
+http://45.62.112.248/gxyd.php?id=3221226353
+#EXTINF:-1 tvg-name="来宾电视台综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-gxlaibinzh/GX0802LBZHTB02.png" group-title="本地及特色",来宾电视台综合
+http://45.62.112.248/gxyd.php?id=3221226357
+#EXTINF:-1 tvg-name="梧州新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-gxwuzhouxw/GX0802WZZHTB.png" group-title="本地及特色",梧州新闻综合
+http://45.62.112.248/gxyd.php?id=3221226349
+#EXTINF:-1 tvg-name="梧州教育生活 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-gxwuzhoujysh/GX0802WZJYTB.png" group-title="本地及特色",梧州教育生活
+http://45.62.112.248/gxyd.php?id=3221226444
+#EXTINF:-1 tvg-name="防城港新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-gxfangchenggangxwzh/GX0802FCGZHTB.png" group-title="本地及特色",防城港新闻综合
+http://45.62.112.248/gxyd.php?id=3221226350
+#EXTINF:-1 tvg-name="防城港公共 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-gxfangchengganggg/GX0802FCGGGTB.png" group-title="本地及特色",防城港公共
+http://45.62.112.248/gxyd.php?id=3221226441
+#EXTINF:-1 tvg-name="崇左综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-gxchongzuozh/GX0802CZZHTB.png" group-title="本地及特色",崇左综合
+http://45.62.112.248/gxyd.php?id=3221226351
+#EXTINF:-1 tvg-name="桂林新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guilinxwzh/GX1207GLXWTB.png" group-title="本地及特色",桂林新闻综合
+http://45.62.112.248/gxyd.php?id=3221226343
+#EXTINF:-1 tvg-name="桂林科教旅游 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guilinkjly/GX1207GLKJTB.png" group-title="本地及特色",桂林科教旅游
+http://45.62.112.248/gxyd.php?id=3221226339
+#EXTINF:-1 tvg-name="桂林公共频道 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guilingg/GX1207GLGGTB.png" group-title="本地及特色",桂林公共频道
+http://45.62.112.248/gxyd.php?id=3221226342
+#EXTINF:-1 tvg-name="钦州新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-qinzhouxwzh/GX1207QZXWTB.png" group-title="本地及特色",钦州新闻综合
+http://45.62.112.248/gxyd.php?id=3221226347
+#EXTINF:-1 tvg-name="钦州公共影视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-qinzhouggys/GX1207QZGGTB.png" group-title="本地及特色",钦州公共影视
+http://45.62.112.248/gxyd.php?id=3221226459
+
 #EXTINF:-1 tvg-name="军事评论" tvg-id="N01" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV01.png" group-title="NewTV",NewTV军事评论
 http://45.62.112.248/gxyd.php?id=3221225749
 #EXTINF:-1 tvg-name="军旅剧场" tvg-id="N02" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV02.png" group-title="NewTV",NewTV军旅剧场
