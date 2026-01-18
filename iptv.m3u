@@ -136,6 +136,8 @@ http://45.62.112.248/gxyd.php?id=3221225972
 http://45.62.112.248/gxyd.php?id=3221225961
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-quanminrl/JCQSYXTBY0719.png" group-title="数字高清",睛彩青少
 http://45.62.112.248/gxyd.php?id=3221226055
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/MIGU-8000k-1080P-jcgcw/JCGCWSBHB1009.jpg" group-title="数字高清",睛彩广场舞
+http://45.62.112.248/gxyd.php?id=3221226326
 
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字高清",劲爆体育
 http://gslbserv.itv.cmvideo.cn/2000000002000000008/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=37db0584d2bf5830e5d28241380ecbc5
