@@ -36,7 +36,7 @@ http://192.168.2.1:81/gxyd.php?id=3221225901
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="A16" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV15.png" group-title="央视高清",CCTV-15 音乐
 http://192.168.2.1:81/gxyd.php?id=3221225945
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="A17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png" group-title="央视高清",CCTV-16 奥林匹克 4K
-http://192.168.2.1:81/gxyd.php?id=3221226282
+http://192.168.2.1:81/gxyd.php?id=3221226690
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="A18" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png" group-title="央视高清",CCTV-17 农业农村
 http://192.168.2.1:81/gxyd.php?id=3221225910
 #EXTINF:-1 tvg-name="CETV1" tvg-id="A21" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV1.png" group-title="央视高清",CETV-1 综合教育
